@@ -1,0 +1,8 @@
+{
+    "label": "Trabajador",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "description": "Documentos entregados a los trabajadores"
+    }
+  }

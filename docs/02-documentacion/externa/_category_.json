@@ -1,0 +1,8 @@
+{
+    "label": "Externo",
+    "position": 4,
+    "link": {
+      "type": "generated-index",
+      "description": "Documentación externa a la empresa"
+    }
+  }

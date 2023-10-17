@@ -1,0 +1,8 @@
+{
+    "label": "Permisos de Trabajo",
+    "position": 8,
+    "link": {
+      "type": "generated-index",
+      "description": "En SafeTI puede generar un permiso de trabajo a un colaborador o contratista."
+    }
+  }

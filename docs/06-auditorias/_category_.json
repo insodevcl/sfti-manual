@@ -1,0 +1,8 @@
+{
+    "label": "Auditorías",
+    "position": 9,
+    "link": {
+      "type": "generated-index",
+      "description": "Este modulo de SafeTI permite aplicar auditorías precargadas, asi como la consulta de cada una de las auditorías realizadas"
+    }
+  }

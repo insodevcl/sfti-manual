@@ -1,0 +1,8 @@
+{
+    "label": "Empresa",
+    "position": 1,
+    "link": {
+      "type": "generated-index",
+      "description": "Documentos que dispone la empresa para su entrega"
+    }
+  }

@@ -1,0 +1,8 @@
+{
+    "label": "Maquinarias",
+    "position": 4,
+    "link": {
+      "type": "generated-index",
+      "description": "Permite tener un registro de los equipos disponibles en su empresa, así como los medios de transporte y equipos de emergencia."
+    }
+  }
