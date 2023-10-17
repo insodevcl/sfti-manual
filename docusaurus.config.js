@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Manual SafeTI',
+  title: 'Manual SFTI',
   tagline: 'Prevención de riesgos a un clic',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://manual.safeti.cl',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'insodevcl', // Usually your GitHub org/user name.
+  projectName: 'sfti-manual', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -65,10 +65,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'SafeTI',
+        title: 'SFTI',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo_safeti.png',
+          alt: 'SFTI Logo',
+          src: 'https://insodev-estaticos.s3.amazonaws.com/logos/sfti/pro/SFTI-pro-logo.png',
         },
         items: [
           {
@@ -137,7 +137,7 @@ const config = {
             ],
           },
         ],*/
-        copyright: `Copyright © ${new Date().getFullYear()} Insodev - Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} INSODEV - SFTI.`,
       },
       prism: {
         theme: lightCodeTheme,
