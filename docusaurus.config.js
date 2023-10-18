@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Manual SFTI',
-  tagline: 'Prevención de riesgos a un clic',
+  title: 'Hola bienvenido al manual de usuario de SFTI.',
+  tagline: 'Aquí encontrarás toda la información necesaria para utilizar SFTI.',
   url: 'https://manual.safeti.cl',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -42,18 +42,9 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          routeBasePath: '/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -69,28 +60,10 @@ const config = {
         logo: {
           alt: 'SFTI Logo',
           src: 'https://insodev-estaticos.s3.amazonaws.com/logos/sfti/pro/SFTI-pro-logo.png',
+          href: '/',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Manual',
-          },
-          /* Agregar menu de idioma
-          { 
-            type: "localeDropdown",
-            position: "left",
-          },
-          */
-          /* desactivar boton de blog
-           {to: '/blog', label: 'Blog', position: 'left'},*/
-          /* desactivar enlace a GitHub
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },*/
+          
         ],
       },
       footer: {

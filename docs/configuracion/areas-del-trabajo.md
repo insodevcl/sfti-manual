@@ -2,7 +2,13 @@
 sidebar_position: 1
 custom_edit_url: null
 ---
-# Áreas de Trabajo
+
+# Áreas de trabajo
+
+:::warning 
+Para realizar esta acción usted debe tener un perfil de **Administrador**.
+:::
+
 ## ¿Cómo agregar un área de trabajo? 
 Para ingresar un area de trabajo debe dirigirse a:
 
