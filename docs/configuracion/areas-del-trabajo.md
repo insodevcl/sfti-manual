@@ -6,7 +6,7 @@ custom_edit_url: null
 # Áreas de trabajo
 
 :::warning 
-Para realizar esta acción usted debe tener un perfil de **Administrador**.
+Para realizar esta acción en la plataforma de SFTI, usted debe tener un perfil de **Administrador**.
 :::
 
 ## ¿Cómo agregar un área de trabajo? 
