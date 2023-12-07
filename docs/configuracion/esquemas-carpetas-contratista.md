@@ -9,7 +9,7 @@ Para ingresar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Ícono de usuario → configuración de empresa → Esquemas carpetas contratista 
+Menú SFTI Pro → Ícono de usuario → Configuración de empresa → Esquemas carpetas contratista
 ```
 </div>
 

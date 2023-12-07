@@ -2,12 +2,15 @@
 ## Introducción 
 Manual de referencia de la plataforma de prevención de riesgos INSODEV SFTI Pro.
 
-## Módulos
-| | MODULO | ASIGNADO | ESTADO |
-|--|--------|----------|-------|
+## Módulos de SFTI Pro
+Avances del manual de usuario:
+
+| REF.| MODULO | ASIGNADO | ESTADO |
+|-----|--------|----------|--------|
+|00| Introducción INSODEV SFTI Pro | Erwin | COMPLETO |
 |C01| Configuración | Valentina | COMPLETO |
 |C02| Widgets | Valentina | COMPLETO |
-|C03| Firma electrónica| Valentina | COMPLETO|
+|C03| Firma electrónica | Valentina | COMPLETO |
 |01| Estructura organizacional | Valentina | COMPLETO |
 |02| Documentación | Valentina | COMPLETO |
 |03| Programa de trabajo | Valentina | COMPLETO |
@@ -24,4 +27,4 @@ Manual de referencia de la plataforma de prevención de riesgos INSODEV SFTI Pro
 
 
 ## Versión
-* SFTI WebApp: v1.93 (30-09-2023)
+* SFTI WebApp: v1.94.1 (26-10-2023)

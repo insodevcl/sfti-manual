@@ -9,7 +9,7 @@ Para ingresar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Ícono de usuario → configuración de empresa → Tipo de examen ocupacional
+Menú SFTI Pro → Ícono de usuario → Configuración de empresa → Tipo de examen ocupacional
 ```
 </div>
 
@@ -21,6 +21,6 @@ El sistema mostrará una tabla con todos los tipos de examen ocupacional registr
 
 </div>
 
-1. **Agregar nuevo tipo de examen de salud ocupacional**: Se debe completar el formulario adjunto con los datos del tipo de examnen de salud ocupacional, una vez terminado presione el botón **"Guardar"** para continuar.
+1. **Agregar nuevo tipo de examen de salud ocupacional**: Se debe completar el formulario adjunto con los datos del tipo de examen de salud ocupacional, una vez terminado presione el botón **"Guardar"** para continuar.
 
 2. **Editar**: Edite los datos tipo de examen de salud ocupacional y presione el botón **"Guardar"** para guardar los cambios.

@@ -9,7 +9,7 @@ Para ingresar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Ícono de usuario → configuración de empresa → Protocolos de mutualidad
+Menú SFTI Pro → Ícono de usuario → Configuración de empresa → Protocolos de mutualidad
 ```
 </div>
 

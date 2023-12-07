@@ -9,7 +9,7 @@ Para ingresar uno o más correos debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Ícono de usuario → configuración de empresa → Correos electrónicos para notificaciones
+Menú SFTI Pro → Ícono de usuario → Configuración de empresa → Correos electrónicos para notificaciones
 ```
 </div>
 

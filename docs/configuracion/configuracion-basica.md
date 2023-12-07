@@ -9,13 +9,13 @@ Para saber debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Ícono de usuario → configuración de empresa → Configuraciones básicas
+Menú SFTI → Ícono de usuario → Configuración de empresa → Configuraciones básicas
 ```
 </div>
 
 <div align="center">
 
-![configuracion basica](/img/img_manual/img_configuracion/2023-08-08_09-36.png)
+![configuración básica](/img/img_manual/img_configuracion/2023-08-08_09-36.png)
 
 </div>
 

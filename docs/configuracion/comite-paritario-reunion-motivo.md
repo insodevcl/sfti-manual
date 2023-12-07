@@ -9,7 +9,7 @@ Para ingresar una debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Ícono de usuario → configuración de empresa → Comité paritario reunión motivo
+Menú SFTI Pro → Ícono de usuario → configuración de empresa → Comité paritario reunión motivo
 ```
 </div>
 
@@ -17,7 +17,7 @@ El sistema mostrará una tabla con todos los motivos de reunión de comité pari
 
 <div align="center">
 
-![comite paritario reunion motivo](/img/img_manual/img_configuracion/2023-08-08_09-28.png)
+![comité paritario reunión motivo](/img/img_manual/img_configuracion/2023-08-08_09-28.png)
 
 </div>
 

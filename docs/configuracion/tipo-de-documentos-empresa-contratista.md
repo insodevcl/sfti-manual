@@ -9,11 +9,11 @@ Para ingresar una debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Ícono de usuario → configuración de empresa → Tipo de documentos  empresa contratista
+Menú SFTI Pro → Ícono de usuario → Configuración de empresa → Tipo de documentos  empresa contratista
 ```
 </div>
 
-El sistema mostrará una tabla con todos los tipos de documentos  empresa contratista registrados:
+El sistema mostrará una tabla con todos los tipos de documentos empresa contratista registrados:
 
 <div align="center">
 

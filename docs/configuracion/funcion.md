@@ -9,7 +9,7 @@ Para ingresar una debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Ícono de usuario → configuración de empresa → Función
+Menú SFTI Pro → Ícono de usuario → Configuración de empresa → Función
 ```
 </div>
 
@@ -17,7 +17,7 @@ El sistema mostrará una tabla con todas las funciones registradas:
 
 <div align="center">
 
-![funcion](/img/img_manual/img_configuracion/2023-08-08_09-48.png)
+![función](/img/img_manual/img_configuracion/2023-08-08_09-48.png)
 
 </div>
 

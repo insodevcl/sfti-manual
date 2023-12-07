@@ -9,11 +9,11 @@ Para guardar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Ícono de usuario → configuración de empresa → Comités paritario 
+Menú SFTI Pro → Ícono de usuario → Configuración de empresa → Comités paritario
 ```
 </div>
 
-El sistema mostrará un plegable de los trabajadores con fuero para seleccionar: 
+El sistema mostrará una lista desplegable de los trabajadores con fuero para seleccionar: 
 
 <div align="center">
 

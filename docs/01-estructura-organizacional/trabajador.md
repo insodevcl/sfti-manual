@@ -9,7 +9,7 @@ Para ingresar un trabajador debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Estructura Organizacional → Trabajador
+Menú SFTI Pro → Estructura Organizacional → Trabajador
 ```
 </div>
 
@@ -23,9 +23,9 @@ El sistema mostrará una tabla con todos los trabajadores registrados de la empr
 
 1. **Agregar**: Podrá agregar a los trabajadores uno a uno.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/MFw4m3z0niA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/MFw4m3z0niA?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -33,7 +33,7 @@ El sistema mostrará una tabla con todos los trabajadores registrados de la empr
 
 <div align="center">
 
-![carga masiva](/img/img_manual/img_estructura_organizacional/2023-08-08_15-19.png)
+![Carga masiva](/img/img_manual/img_estructura_organizacional/2023-08-08_15-19.png)
 
 </div>
 
@@ -43,7 +43,7 @@ El sistema mostrará una tabla con todos los trabajadores registrados de la empr
 
 5. **Datos extras**: Edita antecedentes extras del trabajador.
 
-6. **Historial laboral**:  LLeva el registro de los periodos de trabajo, al hacer clic se abrirá el siguiente formulario:
+6. **Historial laboral**: Lleva el registro de los periodos de trabajo, al hacer clic se abrirá el siguiente formulario:
 
 <div align="center">
 
@@ -61,15 +61,15 @@ El sistema mostrará una tabla con todos los trabajadores registrados de la empr
 
 <div align="center">
 
-![acreditaciones](/img/img_manual/img_estructura_organizacional/2023-08-08_15-26.png)
+![Acreditaciones](/img/img_manual/img_estructura_organizacional/2023-08-08_15-26.png)
 
 </div>
 
 * **Agregar**: Podrá agregar una nueva acreditación
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/d_zUhHLzx6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/d_zUhHLzx6A?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -83,18 +83,17 @@ El sistema mostrará una tabla con todos los trabajadores registrados de la empr
 
 <div align="center">
 
-![decla](/img/img_manual/img_estructura_organizacional/2023-08-08_15-31.png)
+![Declaración](/img/img_manual/img_estructura_organizacional/2023-08-08_15-31.png)
 
 </div>
 
 * **Agregar**: Podrá agregar una nueva declaración de salud.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/gCh6MBFyVdo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/gCh6MBFyVdo?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
-
 
 * **Botón acción**: Podrá descargar el documento para que el respectivo trabajador lo firme y cargarlo a la plataforma firmado.
 
@@ -104,9 +103,9 @@ El sistema mostrará una tabla con todos los trabajadores registrados de la empr
 
 * **Agregar**: Podrá agregar un nuevo tipo de examen ocupacional, Al crear uno nuevo el sistema generará de forma automática una tarea con fecha de vencimiento igual a la cantidad de días antes seleccionada, según la fecha de término de la vigencia del documento.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/23y_pode9V0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/23y_pode9V0?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 

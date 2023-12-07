@@ -9,7 +9,7 @@ Para ingresar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Ícono de usuario → configuración de empresa → Tipo de documentos
+Menú SFTI Pro → Ícono de usuario → Configuración de empresa → Tipo de documentos
 ```
 </div>
 

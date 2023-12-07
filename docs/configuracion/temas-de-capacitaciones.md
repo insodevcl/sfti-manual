@@ -9,7 +9,7 @@ Para ingresar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Ícono de usuario → configuración de empresa → Tema de capacitaciones 
+Menú SFTI → Ícono de usuario → Configuración de empresa → Tema de capacitaciones
 ```
 </div>
 
@@ -17,7 +17,7 @@ El sistema mostrará una tabla con todos los temas de capacitaciones registrados
 
 <div align="center">
 
-![temas de capacitacion](/img/img_manual/img_configuracion/2023-08-08_09-55.png)
+![temas de capacitación](/img/img_manual/img_configuracion/2023-08-08_09-55.png)
 
 </div>
 

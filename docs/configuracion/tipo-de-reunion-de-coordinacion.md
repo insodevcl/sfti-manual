@@ -9,7 +9,7 @@ Para ingresar una debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Ícono de usuario → configuración de empresa → Tipo de reunión de coordinación 
+Menú SFTI Pro → Ícono de usuario → Configuración de empresa → Tipo de reunión de coordinación
 ```
 </div>
 
@@ -17,10 +17,10 @@ El sistema mostrará una tabla con todos los tipos de reunión de coordinación 
 
 <div align="center">
 
-![tipo reunion coordinacion](/img/img_manual/img_configuracion/2023-08-08_10-10.png)
+![tipo reunión coordinación](/img/img_manual/img_configuracion/2023-08-08_10-10.png)
 
 </div>
 
-1. **Agregar nuevo tipo de reunión de coordinación**: Se debe completar el formulario adjunto con los datos del tipo de reunion de coordinación, una vez terminado presione el botón **"Guardar"** para continuar.
+1. **Agregar nuevo tipo de reunión de coordinación**: Se debe completar el formulario adjunto con los datos del tipo de reunión de coordinación, una vez terminado presione el botón **"Guardar"** para continuar.
 
 2. **Editar**: Edite los datos del tipo de coordinación y presione el botón **"Guardar"** para guardar los cambios.

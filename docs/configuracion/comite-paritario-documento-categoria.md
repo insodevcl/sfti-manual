@@ -9,7 +9,7 @@ Para ingresar una debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Ícono de usuario → configuración de empresa → Comité paritario documento categoría
+Menú SFTI Pro → Ícono de usuario → configuración de empresa → Comité paritario documento categoría
 ```
 </div>
 
@@ -17,7 +17,7 @@ El sistema mostrará una tabla con todas las categorías de documentos de comit�
 
 <div align="center">
 
-![comite paritario documento categoria](/img/img_manual/img_configuracion/2023-08-08_09-24.png)
+![comité paritario documento categoría](/img/img_manual/img_configuracion/2023-08-08_09-24.png)
 
 </div>
 

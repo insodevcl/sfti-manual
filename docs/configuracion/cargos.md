@@ -4,16 +4,16 @@ custom_edit_url: null
 ---
 # Cargos
 ## ¿Cómo agregar un cargo?
-Para ingresar un área de trabajo debe dirigirse a:
+Para ingresar un cargo de trabajadores debe dirigirse a:
 
 <div align="center">
 
 ```bash
-Menú SafeTI → Ícono de usuario → configuración de empresa → Cargos
+Menú SFTI Pro → Ícono de usuario → Configuración de empresa → Cargos
 ```
 </div>
 
-El sistema mostrará una tabla con todos los cargos de la empresa registrados:
+El sistema mostrará una lista con los cargos de trabajadores empresa registrados:
 
 <div align="center">
 
@@ -21,6 +21,6 @@ El sistema mostrará una tabla con todos los cargos de la empresa registrados:
 
 </div>
 
-1. **Agregar nuevo cargo**: Se debe completar el formulario adjunto con los datos del cargo, una vez terminado presione el botón **"Guardar"** para continuar.
+1. **+ Nuevo cargo**: Se debe completar el formulario adjunto con los datos del cargo, una vez terminado presione el botón **"Guardar"** para continuar.
 
-2. **Editar**: Edite los datos del cargo y presione el botón **"Editar"** para guardar los cambios.
+2. **Editar cargo**: Edite los datos del cargo y presione el botón **"Guardar"**.

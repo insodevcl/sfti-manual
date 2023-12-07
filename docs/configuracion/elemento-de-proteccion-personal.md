@@ -9,7 +9,7 @@ Para ingresar una debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Ícono de usuario → configuración de empresa → elemento de protección personal 
+Menú SFTI → Ícono de usuario → Configuración de empresa → elemento de protección personal
 ```
 </div>
 

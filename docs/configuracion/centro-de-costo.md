@@ -9,7 +9,7 @@ Para ingresar un centro de costo debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Ícono de usuario → configuración de empresa → Centros de costo
+Menú SFTI Pro → Ícono de usuario → configuración de empresa → Centros de costo
 ```
 </div>
 

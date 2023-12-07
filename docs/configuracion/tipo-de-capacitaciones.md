@@ -9,7 +9,7 @@ Para ingresar una debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Ícono de usuario → configuración de empresa → Tipo de capacitaciones
+Menú SFTI Pro → Ícono de usuario → Configuración de empresa → Tipo de capacitaciones
 ```
 </div>
 
@@ -17,7 +17,7 @@ El sistema mostrará una tabla con todos los tipos de capacitaciones registrados
 
 <div align="center">
 
-![tipo de capacitacion](/img/img_manual/img_configuracion/2023-08-08_09-59.png)
+![tipo de capacitación](/img/img_manual/img_configuracion/2023-08-08_09-59.png)
 
 </div>
 
