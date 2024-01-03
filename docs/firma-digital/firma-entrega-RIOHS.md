@@ -6,7 +6,7 @@ custom_edit_url: null
 ## Firma Electrónica de la Entrega de RIOHS
 ### ¿Cómo firmar una entrega de reglamento interno?
 
-Al crear una entrega de reglamento interno automaticamente nos llegará una notificación al correo sobre un documento pendiente de firma.
+Al crear una entrega de reglamento interno automáticamente nos llegará una notificación al correo sobre un documento pendiente de firma.
 
 Al no encontrar el correo debemos dirigirnos a:
 
@@ -33,16 +33,16 @@ Luego el sistema nos mostrará lo siguiente:
 
 </div>
 
-### Vídeo firma digital entrega de reglamento interno
+### Vídeo firma electrónica entrega de reglamento interno
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/vpPcgsCTY_g?si=wJmyOyWTfpbSgEio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/vpPcgsCTY_g?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 </div>
 
-Presionando el siguiente botón nos reenviaria el aviso de documento pendiente de firma a nuestro correo:
+Presionando el siguiente botón nos reenviaría el aviso de documento pendiente de firma a nuestro correo:
 
 <div align="center">
 

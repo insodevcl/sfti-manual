@@ -5,7 +5,7 @@ custom_edit_url: null
 # Entrega de EPP
 ## Firma Electrónica de Las Entregas de EPP
 
-Al crear una entrega de elemento de protección personal automaticamente nos llegará una notificación al correo sobre un documento pendiente de firma.
+Al crear una entrega de elemento de protección personal automáticamente nos llegará una notificación al correo sobre un documento pendiente de firma.
 
 Al no encontrar el correo debemos dirigirnos a:
 
@@ -34,9 +34,9 @@ Luego el sistema nos mostrará lo siguiente:
 
 ### Vídeo firma digital entrega de elementos de protección personal
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/D0nxHz5GqDw?si=JPeuwWVnb0dPdvEi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/D0nxHz5GqDw/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -65,14 +65,14 @@ En el correo deberá presionar el botón **"Firmar documento"** que lo llevará 
 
 </div>
 
-En la casilla de rut rellenerá con la información solicitada que seria el rut de la persona a quien se lo entregaron.
+En la casilla de rut rellenará con la información solicitada que seria el rut de la persona a quien se lo entregaron.
 
 ### Código de verificación
 El sistema mostrará lo siguiente:
 
 <div align="center">
 
-![codigo](/img/img_manual/img_firma/2023-09-28_10-56.png)
+![código](/img/img_manual/img_firma/2023-09-28_10-56.png)
 
 </div>
 
@@ -80,12 +80,12 @@ Deberá revisar su correo para poder ingresar el código solicitado que se envia
 
 <div align="center">
 
-![correo codigo](/img/img_manual/img_firma/2023-09-28_10-58.png)
+![correo código](/img/img_manual/img_firma/2023-09-28_10-58.png)
 
 </div>
 
 ### Firmar documento
-Los códigos iran variando a medida de que se lo soliciten. Luego de ingresar el código la pagina mostrará lo siguiente:
+Los códigos irán variando a medida de que se lo soliciten. Luego de ingresar el código la pagina mostrará lo siguiente:
 
 <div align="center">
 
@@ -118,7 +118,7 @@ Para visualizar el documento ya firmado debe presionar el siguiente botón:
 
 </div>
 
-Podrá tener una vista previa del documento en pdf:
+Podrá tener una vista previa del documento en PDF:
 
 <div align="center">
 
@@ -126,7 +126,7 @@ Podrá tener una vista previa del documento en pdf:
 
 </div>
 
-Despues de todo el proceso le llegará una notificación al correo donde podrá visualizar el documento firmado por todos los integrantes y el documento adjunto.
+Después de todo el proceso le llegará una notificación al correo donde podrá visualizar el documento firmado por todos los integrantes y el documento adjunto.
 
 Para finalizar deberá presionar el botón **"Cerrar sesión"**.
 

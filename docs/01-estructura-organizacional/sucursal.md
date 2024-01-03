@@ -17,27 +17,27 @@ El sistema mostrará una tabla con todas las sucursales de la empresa registrada
 
 <div align="center">
 
-![suscursal](/img/img_manual/img_estructura_organizacional/2023-08-08_10-20.png)
+![Sucursal](/img/img_manual/img_estructura_organizacional/2023-08-08_10-20.png)
 
 </div>
 
 1. **Agregar**: Para ingresar una nueva sucursal.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/cq-yNOxuDXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/cq-yNOxuDXA/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
 
-2. **Ver**: Ya registrados los datos podra visualizarlos.
+2. **Ver**: Ya registrados los datos podrá visualizarlos.
 
 3. **Edita**: Podrá editar los datos del registro a su conveniencia y al terminar presionar el botón **"Editar"** para guardar los cambios.
 
 4. **Filtros**: Es para que el usuario pueda seleccionar datos que sean relevantes para su búsqueda, entre los filtros se encuentran:
 
-* **Estado**: Filtra según si la suscursal esta activa o inactiva.
+* **Estado**: Filtra según si la sucursal esta activa o inactiva.
 
 * **Encargado**: Filtra según el encargado de la sucursal.
 
-* **Comuna**: Filtra por región de surcursal.
+* **Comuna**: Filtra por región de sucursal.

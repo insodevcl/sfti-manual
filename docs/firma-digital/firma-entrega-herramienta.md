@@ -49,11 +49,11 @@ Luego el sistema nos mostrará lo siguiente:
 </div>
 
 
-### Vídeo firma digital entrega de herramientas
+### Vídeo firma electrónica entrega de herramientas
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/HeEQyEtnOgA?si=24MT28oE49S6NfHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/HeEQyEtnOgA/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 

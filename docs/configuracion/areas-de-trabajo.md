@@ -31,7 +31,7 @@ El sistema mostrará una lista con todas las áreas de trabajo registradas por l
 
 <div class="video-responsive">
 
-<iframe src="https://www.youtube.com/embed/pl8uf4n1d0M?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/pl8uf4n1d0M/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 

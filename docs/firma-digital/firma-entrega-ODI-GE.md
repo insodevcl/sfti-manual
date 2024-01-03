@@ -13,7 +13,7 @@ El proceso de firma digital aplica para la ODI general y específica
 
 ### ¿Cómo firmar una obligación a informar (general)?
 
-Al crear una entrega de obligación a informar (general) automaticamente nos llegará una notificación al correo sobre un documento pendiente de firma.
+Al crear una entrega de obligación a informar (general) automáticamente nos llegará una notificación al correo sobre un documento pendiente de firma.
 
 Al no encontrar el correo debemos dirigirnos a:
 
@@ -42,9 +42,9 @@ Luego el sistema nos mostrará lo siguiente:
 
 ### Vídeo firma digital obligación a informar (específico)
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/8KpW9vhYXTA?si=q67osCylJwvH2923" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/8KpW9vhYXTA/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -87,7 +87,7 @@ Deberá revisar su correo para poder ingresar el código solicitado que se envia
 
 <div align="center">
 
-![correo codigo](/img/img_manual/img_firma/2023-09-27_09-00.png)
+![correo código](/img/img_manual/img_firma/2023-09-27_09-00.png)
 
 </div>
 
@@ -124,7 +124,7 @@ Para visualizar el documento ya firmado debe presionar el siguiente botón:
 
 </div>
 
-Podrá tener una vista previa del documento en pdf:
+Podrá tener una vista previa del documento en PDF:
 
 <div align="center">
 
@@ -132,7 +132,7 @@ Podrá tener una vista previa del documento en pdf:
 
 </div>
 
-Despues de todo el proceso le llegará una notificación al correo donde podrá visualizar el documento firmado por todos los integrantes y el documento adjunto.
+Después de todo el proceso le llegará una notificación al correo donde podrá visualizar el documento firmado por todos los integrantes y el documento adjunto.
 
 Para finalizar deberá presionar el botón **"Cerrar sesión"**.
 

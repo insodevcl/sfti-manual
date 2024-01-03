@@ -50,11 +50,11 @@ En el correo deberá presionar el botón **"Firmar documento"** que lo llevará 
 
 <div align="center">
 
-![firma electronica](/img/img_manual/img_firma/2023-09-26_09-05.png)
+![firma electrónica](/img/img_manual/img_firma/2023-09-26_09-05.png)
 
 </div>
 
-En la casilla de rut rellenerá con la información solicitada que seria el rut de la persona a quien se lo entregaron.
+En la casilla de rut rellenará con la información solicitada que seria el rut de la persona a quien se lo entregaron.
 
 El sistema mostrará lo siguiente:
 
@@ -74,11 +74,11 @@ Deberá revisar su correo para poder ingresar el código solicitado que se envia
 
 </div>
 
-Los códigos iran variando a medida de que se lo soliciten. Luego de ingresar el codigo la pagina mostrará lo siguiente:
+Los códigos iran variando a medida de que se lo soliciten. Luego de ingresar el código la pagina mostrará lo siguiente:
 
 <div align="center">
 
-![inico firma](/img/img_manual/img_firma/2023-09-26_09-18.png)
+![inicio firma](/img/img_manual/img_firma/2023-09-26_09-18.png)
 
 </div>
 
@@ -94,7 +94,7 @@ Luego de haber firmado los documentos que seleccionaste, tendrás que nuevamente
 
 <div align="center">
 
-![ ingresar codigo](/img/img_manual/img_firma/2023-09-26_09-36.png)
+![ ingresar código](/img/img_manual/img_firma/2023-09-26_09-36.png)
 
 </div>
 
@@ -131,7 +131,7 @@ Para poder visualizar los documentos debemos presionar el siguiente botón:
 
 </div>
 
-Se visualizará una vista previa del documento firmado en Pdf:
+Se visualizará una vista previa del documento firmado en PDF:
 
 <div align="center">
 
@@ -158,15 +158,15 @@ Para firmar solo un documento deberá seleccionar el tipo de documento y si dese
 
 </div>
 
-### Vídeo firma digital capacitación
+### Vídeo firma electrónica capacitación
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/xJ-3ucx3GoE?si=mVUzyoHKVWzyjYCC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/xJ-3ucx3GoE/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
-Se mostrará una vista previa del documento como tambien si el realizador firmó tambien.
+Se mostrará una vista previa del documento como también si el realizador firmó.
 
 Para firmar el documento seleccionado deberá presionar el siguiente botón:
 
@@ -192,9 +192,9 @@ Para ya firmar deberá presionar el siguiente botón:
 
 </div>
 
-deberá volver a ingresar un código que se encuentra ya en su bandeja de correos. Luego de ingresar el código podrá visualizarlo presionando el botón de **"Documentos firmados"**.
+Deberá volver a ingresar un código que se encuentra ya en su bandeja de correos. Luego de ingresar el código podrá visualizarlo presionando el botón de **"Documentos firmados"**.
 
-Despues de todo el proceso le llegará una notificación al correo donde podrá visualizar el documento firmado por todos los integrantes y el documento adjunto de esta manera:
+Después de todo el proceso le llegará una notificación al correo donde podrá visualizar el documento firmado por todos los integrantes y el documento adjunto de esta manera:
 
 <div align="center">
 

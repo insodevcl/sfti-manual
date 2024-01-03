@@ -23,9 +23,9 @@ El sistema mostrará una tabla con todas las Faenas de la empresa registradas:
 
 1. **Agregar**: Para ingresar una nueva Faena.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/1xcRCK8vtEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/1xcRCK8vtEI/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -34,11 +34,11 @@ El sistema mostrará una tabla con todas las Faenas de la empresa registradas:
 
 3. **Edita**: Podrá editar los datos del registro a su conveniencia y al terminar presionar el botón **"editar"** para guardar los cambios.
 
-4. **PDF**: Podrá visualizar su registro en un documento pdf.
+4. **PDF**: Podrá visualizar su registro en un documento PDF.
 
 5. **Filtros**: Es para que el usuario pueda seleccionar datos que sean relevantes para su búsqueda, entre los filtros se encuentran:
 
-* **Rango de fechas**: Deberá hacer clic en el recuadro al lado para asi poder filtrar según el rango de fechas que requiera.
+* **Rango de fechas**: Deberá hacer clic en el recuadro al lado para así poder filtrar según el rango de fechas que requiera.
 
 * **Estado**: Filtra según si la faena esta activa o inactiva.
 
@@ -47,39 +47,3 @@ El sistema mostrará una tabla con todas las Faenas de la empresa registradas:
 * **Comuna**: Filtra por comuna de cada región.
 
 * **Sucursal**: Podrá filtrar según central.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
