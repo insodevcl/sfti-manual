@@ -3,6 +3,11 @@ sidebar_position: 3
 custom_edit_url: null
 ---
 # Centros de costo
+
+:::info Información 
+Para realizar esta acción en la plataforma de SFTI, usted debe tener un perfil de **Administrador**.
+:::
+
 ## ¿Cómo agregar un centro de costo?
 Para ingresar un centro de costo debe dirigirse a:
 

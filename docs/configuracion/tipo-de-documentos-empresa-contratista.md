@@ -3,6 +3,11 @@ sidebar_position: 18
 custom_edit_url: null
 ---
 # Tipo de documentos empresa contratista
+
+:::info Información 
+Para realizar esta acción en la plataforma de SFTI, usted debe tener un perfil de **Administrador**.
+:::
+
 ## ¿Cómo agregar un tipo de documento contratista?
 Para ingresar una debe dirigirse a:
 

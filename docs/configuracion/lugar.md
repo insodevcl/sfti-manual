@@ -3,6 +3,11 @@ sidebar_position: 12
 custom_edit_url: null
 ---
 # Lugar
+
+:::info Información 
+Para realizar esta acción en la plataforma de SFTI, usted debe tener un perfil de **Administrador**.
+:::
+
 ## ¿Cómo agregar un lugar?
 Para ingresar uno debe dirigirse a: 
 

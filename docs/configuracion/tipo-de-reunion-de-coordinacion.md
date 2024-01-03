@@ -2,7 +2,12 @@
 sidebar_position: 20
 custom_edit_url: null
 ---
-# Tipo de reunión de coordinación 
+# Tipo de reunión de coordinación
+
+:::info Información 
+Para realizar esta acción en la plataforma de SFTI, usted debe tener un perfil de **Administrador**.
+:::
+
 ## ¿Cómo agregar un tipo de reunión de coordinación 
 Para ingresar una debe dirigirse a: 
 

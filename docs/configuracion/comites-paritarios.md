@@ -2,7 +2,12 @@
 sidebar_position: 6
 custom_edit_url: null
 ---
-# Comités paritarios 
+# Comités paritarios
+
+:::info Información 
+Para realizar esta acción en la plataforma de SFTI, usted debe tener un perfil de **Administrador**.
+:::
+
 ## ¿Cómo guardar un trabajador con fuero?
 Para guardar uno debe dirigirse a:
 

@@ -2,7 +2,12 @@
 sidebar_position: 8
 custom_edit_url: null
 ---
-# Correos electrónicos para notificaciones 
+# Correos electrónicos para notificaciones
+
+:::info Información 
+Para realizar esta acción en la plataforma de SFTI, usted debe tener un perfil de **Administrador**.
+:::
+
 ## ¿Cómo agregar correos electrónicos para notificaciones?
 Para ingresar uno o más correos debe dirigirse a: 
 

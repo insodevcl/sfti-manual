@@ -3,6 +3,11 @@ sidebar_position: 5
 custom_edit_url: null
 ---
 # Comité paritario reunión motivo
+
+:::info Información 
+Para realizar esta acción en la plataforma de SFTI, usted debe tener un perfil de **Administrador**.
+:::
+
 ## ¿Cómo agregar un motivo de reunión?
 Para ingresar una debe dirigirse a:
 

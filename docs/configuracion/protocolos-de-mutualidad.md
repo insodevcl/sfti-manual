@@ -3,6 +3,11 @@ sidebar_position: 13
 custom_edit_url: null
 ---
 # Protocolos de mutualidad
+
+:::info Información 
+Para realizar esta acción en la plataforma de SFTI, usted debe tener un perfil de **Administrador**.
+:::
+
 ## ¿Cómo agregar un protocolo de mutualidad?
 Para ingresar uno debe dirigirse a:
 
