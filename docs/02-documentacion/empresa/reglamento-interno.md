@@ -9,7 +9,7 @@ Para ingresar un reglamento interno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Documentación → Empresa → Reglamento interno  
+Menú SafeTI → Documentación → Empresa → Reglamento interno
 ```
 </div>
 
@@ -23,9 +23,9 @@ El sistema mostrará una tabla con todos los reglamentos internos de la empresa 
 
 1. **Agregar**: Para ingresar un nuevo reglamento interno.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/BVqTUqjwWaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/BVqTUqjwWaI/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
