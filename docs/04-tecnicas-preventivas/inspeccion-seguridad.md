@@ -9,7 +9,7 @@ Para ingresar una debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Técnicas preventivas → Inspección de seguridad
+Menú SFTI Pro → Técnicas preventivas → Inspección de seguridad
 ```
 </div>
 
@@ -17,15 +17,15 @@ El sistema mostrará una tabla con todo el listado de inspección a la seguridad
 
 <div align="center">
 
-![inicio](/img/img_manual/img_tecnicas_preventivas/2023-08-17_15-09.png)
+![Inicio](/img/img_manual/img_tecnicas_preventivas/2023-08-17_15-09.png)
 
 </div>
 
 1. **Agregar**: Para ingresar un nuevo registro de inspección a la seguridad.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/mBd0F66edJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/mBd0F66edJA/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -40,7 +40,7 @@ El sistema mostrará una tabla con todo el listado de inspección a la seguridad
 
 6. **Filtros**: Es para que el usuario pueda seleccionar datos que sean relevantes para su búsqueda, entre los filtros se encuentran:
 
-* **Rango de fechas**: Deberá hacer clic en el recuadro al lado para asi poder filtrar según el rango de fechas que requiera.
+* **Rango de fechas**: Deberá hacer clic en el recuadro al lado para así poder filtrar según el rango de fechas que requiera.
 
 * **Tipo**: Podrá filtrar según si es general o en puntos críticos.
 
@@ -57,37 +57,3 @@ El sistema mostrará una tabla con todo el listado de inspección a la seguridad
 * **Lugar**: Podrá filtrar según el sitio requerido.
 
 * **Realizador**: Podrá filtrar según el usuario a cargo de efectuar el registro.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

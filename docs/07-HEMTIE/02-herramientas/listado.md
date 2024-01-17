@@ -9,7 +9,7 @@ Para ingresar una debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → HEMTIE → Herramientas → Listado
+Menú SFTI Pro → HEMTIE → Herramientas → Listado
 ```
 </div>
 
@@ -23,9 +23,9 @@ El sistema mostrará una tabla con todas las herramientas de la empresa registra
 
 1. **Agregar nueva herramienta**: Deberá completar los campos necesarios para crear una nueva herramienta y finalmente presione el botón **"continuar"** para guardar los cambios.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/ZhwmkQTshWw?si=zz03-ENvnmkQg5YR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/ZhwmkQTshWw/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -37,9 +37,9 @@ El sistema mostrará una tabla con todas las herramientas de la empresa registra
 
 * **Mantenciones**: Podrá agregar mantenciones a las herramientas.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/GVTIPHHlUu0?si=FDEdh5zioKmQVOyA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/GVTIPHHlUu0/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -47,23 +47,23 @@ El sistema mostrará una tabla con todas las herramientas de la empresa registra
 
 * **Entregas**: Podrá agregar entregas a el que requiera.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/zAzgmdsngSA?si=FUgeJSekIACS0mn5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-</div>
-
-### ¿Cómo aplicar una auditoria? 
-
-* **Auditorías realizadas**: Podrá aplicar una auditoria relacionada a la herramienta.
-
-<div align="center">
-
-<iframe width="800" height="384" src="https://www.youtube.com/embed/INv2jb0miKg?si=NxUTuH53TICbAGvb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/zAzgmdsngSA/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
+### ¿Cómo aplicar una auditoría? 
 
-3. **Fotográfia**: Se podrá visualizar la imagen adjuntada.
+* **Auditorías realizadas**: Podrá aplicar una auditoría relacionada con la herramienta.
+
+<div class="video-responsive">
+
+<iframe src="https://www.youtube.com/embed/INv2jb0miKg/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+
+3. **Fotografía**: Se podrá visualizar la imagen adjuntada.
  
 4. **QR**: Le generará un QR con el acceso a la herramienta agregada.

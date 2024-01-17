@@ -11,7 +11,7 @@ Para listar los tipos de equipo o poder ingresar un nuevo tipo de transporte deb
 <div align="center">
 
 ```bash
-Menú SafeTI → HEMTIE → Transportes → Tipos
+Menú SFTI Pro → HEMTIE → Transportes → Tipos
 ```
 </div>
 
@@ -25,21 +25,21 @@ El sistema mostrará una tabla con todo el listado de tipos de transportes de la
 
 1. **Agregar**: Para ingresar un nuevo tipo de transporte.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/n0SSI21meoM?si=5t-JYisfbDnfO6hH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/n0SSI21meoM/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
-Luego de ingresar los datos esto lo devolverá al listado de tipos de transportes , aquí verá el nuevo tipo ingresado.
+Luego de ingresar los datos esto lo devolverá al listado de tipos de transportes, aquí verá el nuevo tipo ingresado.
 
 2. **Editar**: Podrá editar el registro a su conveniencia.
 
 3. **Documentación**: Podrá agregar documentación al transporte tipo.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/9elhiYIQT_E?si=44JKHZ1bCkqqr1vK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/9elhiYIQT_E/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 

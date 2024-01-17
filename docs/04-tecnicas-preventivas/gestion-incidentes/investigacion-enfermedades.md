@@ -9,7 +9,7 @@ Para ingresar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Técnicas preventivas → Gestión de incidentes → Procedimiento de investigación de enfermemdades profesionales
+Menú SFTI Pro → Técnicas preventivas → Gestión de incidentes → Procedimiento de investigación de enfermedades profesionales
 ```
 </div>
 
@@ -23,17 +23,17 @@ El sistema mostrará una tabla con todo el listado de enfermedades profesionales
 
 1. **Agregar**: Para ingresar un nuevo registro de enfermedades profesionales.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/ichTgcVNv4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/ichTgcVNv4s/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
-2. **Ver**: Podrá ver el procedimiento de investigación de enfermedades profesionales, tambien podrá terminar de completar el procedimiento.
+2. **Ver**: Podrá ver el procedimiento de investigación de enfermedades profesionales, también podrá terminar de completar el procedimiento.
 
 <div align="center">
 
-![ver](/img/img_manual/img_tecnicas_preventivas/2023-08-22_12-50.png)
+![Ver](/img/img_manual/img_tecnicas_preventivas/2023-08-22_12-50.png)
 
 </div>
 
@@ -45,9 +45,9 @@ El sistema mostrará una tabla con todo el listado de enfermedades profesionales
 
 i. **Reporte inmediato**: Podrá registrar los datos de la enfermedad laboral ocurrida.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/-Ga6DilKLRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/-Ga6DilKLRo/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -55,9 +55,9 @@ i. **Reporte inmediato**: Podrá registrar los datos de la enfermedad laboral oc
 
 ii. **Declaración del supervisor**: Podrá registrar la declaración del supervisor y cargar el documento firmado por sus respectivos a la plataforma.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/O70yDcTqgn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/O70yDcTqgn8/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -65,9 +65,9 @@ ii. **Declaración del supervisor**: Podrá registrar la declaración del superv
 
 iii. **Declaración del trabajador**: Podrá registrar la declaración del trabajador y cargar el documento firmado por sus respectivos a la plataforma.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/JIpP3yYfk_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/JIpP3yYfk_0/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -75,30 +75,29 @@ iii. **Declaración del trabajador**: Podrá registrar la declaración del traba
 
 iv. **Declaración del comité paritario de higiene y seguridad**: Podrá registrar la declaración del CPHS y cargar el documento firmado por sus respectivos a la plataforma.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/PvPJSS0qZBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/PvPJSS0qZBg/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
-### ¿Cómo agregar una declaración del testigos?
+### ¿Cómo agregar una declaración de testigos?
 
 v. **Declaración de testigos**: Podrá registrar la declaración de testigos de la empresa y el prestador de servicios para luego firmar sus documentos y cargarlos firmados a la plataforma.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/p0bP3U6pKiE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/p0bP3U6pKiE/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
-
 ### ¿Cómo agregar una D.I.E.P?
 
-vi. **D.I.E.P.**: Podrá registrar la denuncia Individual de enfermedad profesional tambien registrar información adicional.
+vi. **D.I.E.P.**: Podrá registrar la denuncia Individual de enfermedad profesional también registrar información adicional.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/Yr9_CogipQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/Yr9_CogipQc/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -107,9 +106,9 @@ vi. **D.I.E.P.**: Podrá registrar la denuncia Individual de enfermedad profesio
 
 vii. **Investigación de enfermedad profesional**: Podrá registrar las investigaciones obligatorias para luego descargar el documento y cargarlo firmado por sus respectivos a la plataforma.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/vx4zh2f7GuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/vx4zh2f7GuE/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -117,9 +116,9 @@ vii. **Investigación de enfermedad profesional**: Podrá registrar las investig
 
 viii. **Calificación**: Podrá agregar la calificación si la situación que conlleva la enfermedad ocurre por causa de origen laboral o causas que no están relacionadas con el labor que desempeña.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/8JOaGfhhkj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/8JOaGfhhkj4/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -127,9 +126,9 @@ viii. **Calificación**: Podrá agregar la calificación si la situación que co
 
 ix. **Evaluación**: Podrá agregar una evaluación por sospecha de enfermedad profesional.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/aQxskiFe3TQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/aQxskiFe3TQ/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -137,15 +136,15 @@ ix. **Evaluación**: Podrá agregar una evaluación por sospecha de enfermedad p
 
 x. **Cumplimiento de tareas**: Podrá poner las tareas en el estado que usted requiera.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/TlW7mx5i4tA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/TlW7mx5i4tA/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
 3. **Filtros**: Es para que el usuario pueda seleccionar datos que sean relevantes para su búsqueda, entre los filtros se encuentran:
 
-* **Rango de fechas**: Deberá hacer clic en el recuadro al lado para asi poder filtrar según el rango de fechas que requiera.
+* **Rango de fechas**: Deberá hacer clic en el recuadro al lado para así poder filtrar según el rango de fechas que requiera.
 
 * **Tipo**: Podrá filtrar según paciente ley o paciente no ley.
 
@@ -156,21 +155,3 @@ x. **Cumplimiento de tareas**: Podrá poner las tareas en el estado que usted re
 * **Trabajador afectado**: Podrá filtrar según el trabajador afectado.
 
 * **¿A quién aplica?**: Podrá filtrar según si aplica a Sucursal, Faena o Contratista.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -9,7 +9,7 @@ Para ingresar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Técnicas preventivas → Gestión de incidentes → Procedimiento de investigación de accidentes
+Menú SFTI Pro → Técnicas preventivas → Gestión de incidentes → Procedimiento de investigación de accidentes
 ```
 </div>
 
@@ -17,15 +17,15 @@ El sistema mostrará una tabla con todo el listado de accidentes de la empresa r
 
 <div align="center">
 
-![inicio](/img/img_manual/img_tecnicas_preventivas/2023-08-21_15-15.png)
+![Inicio](/img/img_manual/img_tecnicas_preventivas/2023-08-21_15-15.png)
 
 </div>
 
 1. **Agregar**: Para ingresar un nuevo registro de accidentes.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/KuE94bIrl1M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/KuE94bIrl1M/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -33,7 +33,7 @@ El sistema mostrará una tabla con todo el listado de accidentes de la empresa r
 
 <div align="center">
 
-![ver](/img/img_manual/img_tecnicas_preventivas/2023-08-21_15-18.png)
+![Ver](/img/img_manual/img_tecnicas_preventivas/2023-08-21_15-18.png)
 
 </div>
 
@@ -47,9 +47,9 @@ El sistema mostrará una tabla con todo el listado de accidentes de la empresa r
 
 i. **Reporte inmediato**: Podrá registrar los datos del accidente laboral ocurrido.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/_2zU56e_qt8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/_2zU56e_qt8/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -57,9 +57,9 @@ i. **Reporte inmediato**: Podrá registrar los datos del accidente laboral ocurr
 
 ii. **Declaración del trabajador**: Podrá realizar la declaración para luego descargar el documento y cargarlo a la plataforma firmado por sus respectivos.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/k1AHGkCWNDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/k1AHGkCWNDk/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -67,9 +67,9 @@ ii. **Declaración del trabajador**: Podrá realizar la declaración para luego 
 
 iii. **Declaración de testigos**: Podrá realizar la declaración de testigos de empresa y prestador de servicios para luego descargar los documentos y cargarlos a la plataforma firmados por sus respectivos.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/5_cCdh8w5GE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/5_cCdh8w5GE/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -77,9 +77,9 @@ iii. **Declaración de testigos**: Podrá realizar la declaración de testigos d
 
 iv. **D.I.A.T**: Podrá presentar una denuncia individual de accidente del trabajo.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/HdvrRanE67w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/HdvrRanE67w/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -87,9 +87,9 @@ iv. **D.I.A.T**: Podrá presentar una denuncia individual de accidente del traba
 
 v. **Investigación**: Podrá agregar una investigación al accidente.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/82kSNDluB_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/82kSNDluB_8/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -97,9 +97,9 @@ v. **Investigación**: Podrá agregar una investigación al accidente.
 
 vi. **Calificación**: Podrá agregar la calificación si el accidente pasa a ser por actividad laboral o no.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/y5Om11lFUFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/y5Om11lFUFI/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -107,15 +107,15 @@ vi. **Calificación**: Podrá agregar la calificación si el accidente pasa a se
 
 vii. **Cumplimiento de tareas**: Podrá poner las tareas en el estado que usted requiera.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/q5jsbNrjNcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/q5jsbNrjNcE/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
 3. **Filtros**: Es para que el usuario pueda seleccionar datos que sean relevantes para su búsqueda, entre los filtros se encuentran:
 
-* **Rango de fechas**: Deberá hacer clic en el recuadro al lado para asi poder filtrar según el rango de fechas que requiera.
+* **Rango de fechas**: Deberá hacer clic en el recuadro al lado para así poder filtrar según el rango de fechas que requiera.
 
 * **Tipo**: Podrá filtrar según el tipo de accidente.
 

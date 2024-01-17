@@ -9,7 +9,7 @@ Para ingresar un registro de documento debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Documentación → Empresa → Registro de documentos
+Menú SFTI Pro → Documentación → Empresa → Registro de documentos
 ```
 </div>
 
@@ -22,21 +22,21 @@ El sistema mostrará una tabla con todos los registros de documentos de la empre
 
 1. **Agregar**: Para ingresar un registro de documento.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/b4Mq8Q5rpOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/b4Mq8Q5rpOM/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
-2. **Editar**: Podrá editar el registo a su conveniencia.
+2. **Editar**: Podrá editar el registro a su conveniencia.
 
-3. **PDF**: Descargar resumen de documento en formato pdf.
+3. **PDF**: Descargar resumen de documento en formato PDF.
 
 4. **Archivo de respaldo**: Descargar documento de respaldo.
 
 5. **Filtros**: Es para que el usuario pueda seleccionar datos que sean relevantes para su búsqueda, entre los filtros se encuentran:
 
-* **Rango de fechas**: Deberá hacer clic en el recuadro al lado para asi poder filtrar según el rango de fechas que requiera.
+* **Rango de fechas**: Deberá hacer clic en el recuadro al lado para así poder filtrar según el rango de fechas que requiera.
 
 * **Categoría**: Según lo requiera.
 
@@ -49,19 +49,3 @@ El sistema mostrará una tabla con todos los registros de documentos de la empre
 * **Subárea**: Podrá filtrar según su área subordinada.
 
 * **Realizador**: Usuario a cargo de efectuar el registro.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

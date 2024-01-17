@@ -9,7 +9,7 @@ Para ingresar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Documentación → Externa → Registro de fiscalización
+Menú SFTI Pro → Documentación → Externa → Registro de fiscalización
 ```
 </div>
 
@@ -17,14 +17,14 @@ El sistema mostrará una tabla con todos los registros de fiscalización de la e
 
 <div align="center">
 
-![inicio](/img/img_manual/img_documentacion/2023-08-16_11-23.png)
+![Inicio](/img/img_manual/img_documentacion/2023-08-16_11-23.png)
 </div>
 
 1. **Agregar**: Para ingresar un nuevo registro de fiscalización.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/FeuXBdKOEkg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/FeuXBdKOEkg/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -32,7 +32,7 @@ El sistema mostrará una tabla con todos los registros de fiscalización de la e
 
 <div align="center">
 
-![inicio](/img/img_manual/img_documentacion/2023-08-16_11-40.png)
+![Inicio](/img/img_manual/img_documentacion/2023-08-16_11-40.png)
 
 </div>
 
@@ -40,25 +40,25 @@ El sistema mostrará una tabla con todos los registros de fiscalización de la e
 
 <div align="center">
 
-![inicio](/img/img_manual/img_documentacion/2023-08-16_11-43.png)
+![Inicio](/img/img_manual/img_documentacion/2023-08-16_11-43.png)
 
 </div>
 
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/o2YmPSoqD88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/o2YmPSoqD88/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
 
-3. **PDF**: Podrá visualizar y descargar el registro en pdf.
+3. **PDF**: Podrá visualizar y descargar el registro en PDF.
 
 4. **Descargar**: Podrá descargar el archivo adjunto.
 
 5. **Filtros**: Es para que el usuario pueda seleccionar datos que sean relevantes para su búsqueda, entre los filtros se encuentran:
 
-* **Rango de fechas**: Deberá hacer clic en el recuadro al lado para asi poder filtrar según el rango de fechas que requiera.
+* **Rango de fechas**: Deberá hacer clic en el recuadro al lado para así poder filtrar según el rango de fechas que requiera.
 
 * **Contratista**: Podrá filtrar según el nombre del contratista.
 

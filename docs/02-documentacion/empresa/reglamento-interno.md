@@ -9,7 +9,7 @@ Para ingresar un reglamento interno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Documentación → Empresa → Reglamento interno
+Menú SFTI Pro → Documentación → Empresa → Reglamento interno
 ```
 </div>
 
@@ -30,18 +30,15 @@ El sistema mostrará una tabla con todos los reglamentos internos de la empresa 
 </div>
 
 
-2. **Ver**: Podrá visualizar el reglamento interno en pdf.
+2. **Ver**: Podrá visualizar el reglamento interno en PDF.
 
 3. **Cartas conductoras**: Podrá descargar e imprimir el documento para ser firmado y digitalizarlo en la plataforma.
 
 <div align="center">
 
-![cartas](/img/img_manual/img_documentacion/2023-08-09_11-31.png)
+![Cartas](/img/img_manual/img_documentacion/2023-08-09_11-31.png)
 </div>
 
 4. **Filtros**: Es para que el usuario pueda seleccionar datos que sean relevantes para su búsqueda, entre los filtros se encuentran:
 
 * **Rango de fechas**: Deberá hacer clic en el recuadro al lado para así poder filtrar según el rango de fechas que requiera.
-
-
-

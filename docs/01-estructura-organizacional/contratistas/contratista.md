@@ -10,7 +10,7 @@ Para ingresar un contratista debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Estructura Organizacional → Contratista
+Menú SFTI Pro → Estructura Organizacional → Contratista
 ```
 </div>
 
@@ -50,7 +50,7 @@ El sistema mostrará una tabla con todos los contratistas de la empresa registra
 
 <div align="center">
 
-![trabajadores](/img/img_manual/img_estructura_organizacional/2023-08-08_10-56.png)
+![Trabajadores](/img/img_manual/img_estructura_organizacional/2023-08-08_10-56.png)
 
 </div>
 
@@ -67,21 +67,21 @@ El sistema mostrará una tabla con todos los contratistas de la empresa registra
 
 <div align="center">
 
-![carga masiva](/img/img_manual/img_estructura_organizacional/2023-08-08_10-58.png)
+![Carga masiva](/img/img_manual/img_estructura_organizacional/2023-08-08_10-58.png)
 
 </div>
 
 * 3. **Ver**: Podrá visualizar los datos registrados.
 
-* 4. **Editar**:  Podrá editar el registo a su conveniencia y al terminar presionar el botón **"Editar"**.
+* 4. **Editar**: Podrá editar el registro a su conveniencia y al terminar presionar el botón **"Editar"**.
 
 ### ¿Cómo agregar historial laboral a trabajador contratista?
 
-* 5. **Historial laboral**: LLeva el registro de los periodos de trabajo.
+* 5. **Historial laboral**: Lleva el registro de los periodos de trabajo.
 
 <div align="center">
 
-![historial laboral](/img/img_manual/img_estructura_organizacional/2023-08-08_11-00.png)
+![Historial laboral](/img/img_manual/img_estructura_organizacional/2023-08-08_11-00.png)
 
 </div>
 
@@ -144,7 +144,7 @@ Luego de finalizar el registro completo de trabajador, podrá seguir registrando
 
 <div align="center">
 
-![documentacion](/img/img_manual/img_estructura_organizacional/2023-08-08_11-10.png)
+![Documentación](/img/img_manual/img_estructura_organizacional/2023-08-08_11-10.png)
 
 </div>
 
@@ -154,12 +154,11 @@ Luego de finalizar el registro completo de trabajador, podrá seguir registrando
 
 </div>
 
-
 8. **Vista de carpetas**: Podrá visualizar los archivos de su requerimiento en carpetas.
 
 <div align="center">
 
-![vista carpetas](/img/img_manual/img_estructura_organizacional/2023-08-08_11-14.png)
+![Vista carpetas](/img/img_manual/img_estructura_organizacional/2023-08-08_11-14.png)
 
 </div>
 
@@ -175,7 +174,7 @@ Luego de finalizar el registro completo de trabajador, podrá seguir registrando
 
 <div align="center">
 
-![leyenda](/img/img_manual/img_estructura_organizacional/2023-08-08_11-15.png)
+![Leyenda](/img/img_manual/img_estructura_organizacional/2023-08-08_11-15.png)
 
 </div>
 
@@ -183,7 +182,7 @@ Luego de finalizar el registro completo de trabajador, podrá seguir registrando
 
 <div align="center">
 
-![configuracion](/img/img_manual/img_estructura_organizacional/2023-08-08_11-20.png)
+![Configuración](/img/img_manual/img_estructura_organizacional/2023-08-08_11-20.png)
 
 </div>
 
@@ -204,7 +203,7 @@ También podrá agregar nuevos esquemas para sus carpetas contratistas en config
 
 <div align="center">
 
-![agregar nuevo esquema carp](/img/img_manual/img_estructura_organizacional/2023-09-07_15-23.png)
+![Agregar nuevo esquema carpeta](/img/img_manual/img_estructura_organizacional/2023-09-07_15-23.png)
 
 </div>
 

@@ -13,7 +13,7 @@ Para ingresar un ODI específico debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Documentación → Empresa → Obligación de informar (específico)  
+Menú SFTI Pro → Documentación → Empresa → Obligación de informar (específico)
 ```
 </div>
 
@@ -27,21 +27,21 @@ El sistema mostrará una tabla con todos los registros de obligación de informa
 
 1. **Agregar**: Para ingresar un nuevo ODI específico.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/JKGI3YLXGxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/JKGI3YLXGxc/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
-2. **Editar**: Podrá editar el registo a su conveniencia y al terminar presionar el botón **"Guardar"**.
+2. **Editar**: Podrá editar el registro a su conveniencia y al terminar presionar el botón **"Guardar"**.
 
 3. **PDF**: Podrá ver el registro en documento pdf.
 
-4. **Filtros**:  Es para que el usuario pueda seleccionar datos que sean relevantes para su búsqueda, entre los filtros se encuentran:
+4. **Filtros**: Es para que el usuario pueda seleccionar datos que sean relevantes para su búsqueda, entre los filtros se encuentran:
 
-* **Rango de fechas**: Deberá hacer clic en el recuadro al lado para asi poder filtrar según el rango de fechas que requiera.
+* **Rango de fechas**: Deberá hacer clic en el recuadro, para así poder filtrar según el rango de fechas que requiera.
 
-* **Cargo**: La función desempeña el trabajador. 
+* **Cargo**: La función que desempeña el trabajador. 
 
 * **Subárea**: Podrá filtrar según su área subordinada.
 

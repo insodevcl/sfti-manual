@@ -11,7 +11,7 @@ Para listar los tipos de equipo o poder ingresar un nuevo tipo de equipo debe di
 <div align="center">
 
 ```bash
-Menú SafeTI → HEMTIE → Equipos → Tipos
+Menú SFTI Pro → HEMTIE → Equipos → Tipos
 ```
 </div>
 
@@ -25,9 +25,9 @@ El sistema mostrará una tabla con todos los tipos de equipos de la empresa agre
 
 Para ingresar un nuevo tipo de equipo, debe hacer clic en el botón **“+ Agregar equipo tipo”**, se desplegará un formulario para que ingrese el nombre y descripción del tipo:
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/VHWAf_WXIVA?si=n925zY5bPTnEI91y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/VHWAf_WXIVA/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -49,11 +49,11 @@ Luego de ingresar los datos debe hacer clic en el botón **“Guardar”**, esto
 * **Documentación**: Al hacer clic en el botón, verá el _"Listado de documentación para el equipo tipo"_, desde aquí podrá agregar nueva documentación enlazada.
 
 
-Debe hacer clic en el botón **"Agregar documentación"**, debe definir el formato del recurso que agregara: documento, video, audio, etc., tambien debe dar una descripción y finalmente una url al recurso.
+Debe hacer clic en el botón **"Agregar documentación"**, debe definir el formato del recurso que agregara: documento, video, audio, etc., también debe dar una descripción y finalmente una URL al recurso.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/GxkzGCB2eeg?si=p3fqZgkCUbWpn9Jw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/GxkzGCB2eeg/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -61,7 +61,7 @@ En el _"Listado de documentación para el equipo tipo"_ dispone de la columna **
 
 <div align="center">
 
-![editar documentación](/img/img_manual/img_hemtie_equipo/2023-08-29_14-50.png)
+![Editar documentación](/img/img_manual/img_hemtie_equipo/2023-08-29_14-50.png)
 
 </div>
 
@@ -69,14 +69,14 @@ En el _"Listado de documentación para el equipo tipo"_ dispone de la columna **
 
 <div align="center">
 
-![atributos](/img/img_manual/img_hemtie_equipo/2023-08-29_14-51.png)
+![Atributos](/img/img_manual/img_hemtie_equipo/2023-08-29_14-51.png)
 
 </div>
 
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/5po9WWHvLIU?si=sN1y7HDgjaqODN5J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/5po9WWHvLIU/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -86,4 +86,3 @@ Los atributos no son editables.
 :::
 
 Una vez completado el ingreso de los tipos de equipos se debe pasar a la siguiente etapa en la cual ingresaremos el equipo asignándole el **“Tipo”** correspondiente.
-

@@ -9,7 +9,7 @@ Para ingresar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Técnicas preventivas → Identficación de peligros y evaluación de riesgos    
+Menú SFTI Pro → Técnicas preventivas → Identificación de peligros y evaluación de riesgos
 ```
 </div>
 
@@ -17,33 +17,33 @@ El sistema mostrará una tabla con todo el listado de identificación de peligro
 
 <div align="center">
 
-![inicio](/img/img_manual/img_tecnicas_preventivas/2023-08-17_11-23.png)
+![Inicio](/img/img_manual/img_tecnicas_preventivas/2023-08-17_11-23.png)
 
 </div>
 
 1. **Agregar**: Para ingresar un nuevo registro de IPER.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/QSWs8w3ZynQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/QSWs8w3ZynQ/rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
 2. **Editar**: Podrá editar el registro a su conveniencia.
 
-3. **Matriz**: Para obtener detalles de forma rápida de un elemento, posicione el cursor sobre la decripción del elemento y una burbuja aparecerá con la información.
+3. **Matriz**: Para obtener detalles de forma rápida de un elemento, posicione el cursor sobre la descripción del elemento y una burbuja aparecerá con la información.
 
 <div align="center">
 
-![matriz](/img/img_manual/img_tecnicas_preventivas/2023-08-17_11-26.png)
+![Matriz](/img/img_manual/img_tecnicas_preventivas/2023-08-17_11-26.png)
 
 </div>
 
-4. **Estado**: Podrá visualizar y descargar el documendo en formato PDF firmado por el trabajador, tambien podra digitalizar el documento firmado.
+4. **Estado**: Podrá visualizar y descargar el documento en formato PDF firmado por el trabajador, también podrá digitalizar el documento firmado.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/qC4q5_PXk-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/qC4q5_PXk-g/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -53,7 +53,7 @@ El sistema mostrará una tabla con todo el listado de identificación de peligro
 
 7. **Filtros**: Es para que el usuario pueda seleccionar datos que sean relevantes para su búsqueda, entre los filtros se encuentran:
 
-* **Estado**: Se podrá filtrar si esta validado o no validado.
+* **Estado**: Se podrá filtrar si está validado o no validado.
 
 * **Contratista**: Podrá filtrar según el nombre del contratista.
 

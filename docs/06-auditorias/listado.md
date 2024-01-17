@@ -13,7 +13,7 @@ Para agregar una nueva auditoria tiene que dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Auditoría → Listado
+Menú SFTI Pro → Auditoría → Listado
 ```
 </div>
 
@@ -29,9 +29,9 @@ El sistema mostrará una tabla con todas las auditorías de la empresa agregadas
 
 * **Agregar nueva auditoria**: Podrá agregar una auditoria para su requerimiento.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/3W_EyBgTEnA?si=KcJdQ6SCi6dQhOJl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/3W_EyBgTEnA/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 

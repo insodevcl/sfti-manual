@@ -4,37 +4,37 @@ custom_edit_url: null
 ---
 # Disponibles
 
-Las auditorias de su empresa pueden digitalizarse en **SafeTI**, las cuales podrán ser aplicadas directamente desde la plataforma.
+Las auditorias de su empresa pueden digitalizarse en **SFTI Pro**, las cuales podrán ser aplicadas directamente desde la plataforma.
 
-Las auditorias se ingresan a **SafeTI** durante el proceso de implementación, estas pueden ser **“Generales”** o **“Específicas”**.
+Las auditorias se ingresan a **SFTI Pro** durante el proceso de implementación, estas pueden ser **“Generales”** o **“Específicas”**.
 
 Las auditorias tienen **“tipos”** y **“categorías”**:
 
-* Tipos de auditorias:
-  * General: estas auditorias al ser aplicadas deben asociarse a la subárea de la empresa, no tienen categoría.
+* Tipos de auditorías:
+  * **General**: estas auditorias al ser aplicadas deben asociarse a la subárea de la empresa, no tienen categoría.
 
-  * Específica: deben ser asociadas a una subárea y también se debe asociar una categoría.
+  * **Específica**: deben ser asociadas a una subárea y también se debe asociar una categoría.
 
-  * Sucursal: deben asociarse a una subárea de la empresa y a una sucursal.
+  * **Sucursal**: deben asociarse a una subárea de la empresa y a una sucursal.
 
-  * Faena: deben asociarse a una subárea y a una faena.
+  * **Faena**: deben asociarse a una subárea y a una faena.
 
-  * Contratista: deben ser asociadas a una empresa contratista y a una subárea de la empresa mandante, opcionalmente se puede asignar sucursal y faena.
+  * **Contratista**: deben ser asociadas a una empresa contratista y a una subárea de la empresa mandante, opcionalmente se puede asignar sucursal y faena.
 
-  * Categoría de las auditorias específicas:
+* Categorías de las auditorías específicas:
 
-  * Persona: debe seleccionar el trabajador que será auditado.
+  * **Persona**: debe seleccionar el trabajador que será auditado.
 
-  * Maquinaria: debe seleccionar la 
+  * **Maquinaria**: debe seleccionar la 
   maquinaria que será auditada.
 
-  * Herramienta: debe seleccionar la herramienta que será auditada.
+  * **Herramienta**: debe seleccionar la herramienta que será auditada.
 
-  * Equipo: debe seleccionar el equipo que será auditado.
+  * **Equipo**: debe seleccionar el equipo que será auditado.
 
-  * Instalación: debe seleccionar la instalación que será auditado.
+  * **Instalación**: debe seleccionar la instalación que será auditado.
 
-  * Transporte: debe seleccionar el transporte que será auditado.
+  * **Transporte**: debe seleccionar el transporte que será auditado.
 
 
 ### ¿Cómo aplicar una auditoria?
@@ -44,7 +44,7 @@ Para poder aplicar una auditoria, debe dirigirse al menú:
 <div align="center">
 
 ```bash
-Menú SafeTI → Auditorías → Auditorías Disponibles
+Menú SFTI Pro → Auditorías → Auditorías Disponibles
 ```
 </div>
 
@@ -55,17 +55,15 @@ Menú SafeTI → Auditorías → Auditorías Disponibles
 </div>
 
 
-### Video
+<div class="video-responsive">
 
-<div align="center">
-
-<iframe width="800" height="384" src="https://www.youtube.com/embed/l_qHc_ozlqs?si=0ymgQzCo8r_dfsOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/l_qHc_ozlqs/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
 En el listado de auditorias disponibles podrá seleccionar una auditoria para aplicar, para buscar una auditoria en específico puede utilizar los filtros, los cuales permiten buscar por tipo, categoría y nombre.
 
-Cada auditoria tiene 2 botones de acción: **“Descargar PDF”** y **“Aplicar Auditoria”**
+Cada auditoria tiene 2 botones de acción: **“Descargar PDF”** y **“Aplicar Auditoría”**
 
 
 <div align="center">
@@ -74,7 +72,7 @@ Cada auditoria tiene 2 botones de acción: **“Descargar PDF”** y **“Aplica
 
 </div>
 
-Al hacer clic en el botón **“Aplicar Auditoria”**, se desplegará el formulario, el cual contiene listas desplegables para seleccionar la subárea, trabajador, sucursal, faena, esto de acuerdo al tipo y categoría de la auditoria.
+Al hacer clic en el botón **“Aplicar Auditoría”**, se desplegará el formulario, el cual contiene listas desplegables para seleccionar la subárea, trabajador, sucursal, faena, esto de acuerdo al tipo y categoría de la auditoria.
 
 Cada una de las preguntas de la auditoria pueden ser respondidas con:
 * **Si**: cumple 
@@ -106,11 +104,11 @@ Para los **“No”** deberá asignar para cada una de las tareas un **“Superv
 
 </div>
 
-Para terminar la auditoria debe hacer clic en el botón **“Guardar”**, SafeTI procesara la auditoria y presentara los resultados de esta.
+Para terminar la auditoria debe hacer clic en el botón **“Guardar”**, SFTI Pro procesara la auditoria y presentara los resultados de esta.
 
 <div align="center">
 
-![auditoria](/img/img_manual/img_auditorias/2023-08-23_17-09.png)
+![Auditoría](/img/img_manual/img_auditorias/2023-08-23_17-09.png)
 
 </div>
 
@@ -122,7 +120,7 @@ Dispone del botón **“Descargar PDF”** con el cual obtendrá todos los detal
 
 <div align="center">
 
-![descargar](/img/img_manual/img_auditorias/2023-08-23_17-15.png)
+![Descargar](/img/img_manual/img_auditorias/2023-08-23_17-15.png)
 
 </div>
 

@@ -9,7 +9,7 @@ Para ingresar una sucursal debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Estructura Organizacional → Sucursal
+Menú SFTI Pro → Estructura Organizacional → Sucursal
 ```
 </div>
 

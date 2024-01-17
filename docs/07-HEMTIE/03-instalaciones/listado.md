@@ -9,7 +9,7 @@ Para ingresar una debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → HEMTIE → Instalaciones → Listado
+Menú SFTI Pro → HEMTIE → Instalaciones → Listado
 ```
 </div>
 
@@ -24,9 +24,9 @@ El sistema mostrará una tabla con todas las instalaciones de la empresa registr
 1. **Agregar**: Deberá completar los campos necesarios para agregar una nueva instalación y finalmente presione el botón **"continuar"** para guardar los cambios.
 
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/DbEbVs4O5U4?si=Ut-LyignCbHxhVNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/DbEbVs4O5U4/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -41,13 +41,13 @@ El sistema mostrará una tabla con todas las instalaciones de la empresa registr
 
 * **Editar**: Podrá editar sus datos a su conveniencia.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/olfDJSqzfwg?si=thP-13V8oecRLhZq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/olfDJSqzfwg/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
 
-* **Auditorias realizadas**: Podrá aplicar una auditoria, la auditoria tiene que ser específica a la categoria instalación.
+* **Auditorias realizadas**: Podrá aplicar una auditoria, la auditoria tiene que ser específica a la categoría instalación.
 
 3. **QR**: Le generará un QR con el acceso a la instalación agregada.

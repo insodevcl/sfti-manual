@@ -9,7 +9,7 @@ Para ingresar una capacitación debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Documentación → Empresa → Registro de capacitaciones
+Menú SFTI Pro → Documentación → Empresa → Registro de capacitaciones
 ```
 </div>
 
@@ -17,19 +17,19 @@ El sistema mostrará una tabla con todas las capacitaciones de la empresa regist
 
 <div align="center">
 
-![inicio](/img/img_manual/img_documentacion/2023-09-22_12-45.png)
+![Inicio](/img/img_manual/img_documentacion/2023-09-22_12-45.png)
 
 </div>
 
 i. **Agregar**: Para ingresar una capacitación, deberá rellenar el formulario con su respectiva información para luego presionar **"Continuar"**.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/CTAtmmti8ZI?si=KWlI3kcwotKq4ikw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/CTAtmmti8ZI/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
-ii. **Editar**: Podrá editar el registo a su conveniencia y editar asistencia de la capacitación, presionando el siguiente botón:
+ii. **Editar**: Podrá editar el registro a su conveniencia y editar asistencia de la capacitación, presionando el siguiente botón:
 
 <div align="center">
 
@@ -45,11 +45,11 @@ iii. **Modificar asistencia**: Seleccione de la lista los trabajadores asistente
 
 </div>
 
-iv. **PDF**: Resumen de la capacitacion en documento pdf, presionando el siguiente botón:
+iv. **PDF**: Resumen de la capacitación en documento PDF, presionando el siguiente botón:
 
 <div align="center">
 
-![icono pdf](/img/img_manual/img_documentacion/icono_pdf.png)
+![Icono pdf](/img/img_manual/img_documentacion/icono_pdf.png)
 
 </div>
 
@@ -62,15 +62,15 @@ v. **Adjunto**: Podrá visualizar el archivo adjunto al registro, presionando el
 
 </div>
 
-vi. **Descargar registro asistencia**: Documento en formato pdf con la información registrada, presionando el siguiente botón:
+vi. **Descargar registro asistencia**: Documento en formato PDF con la información registrada, presionando el siguiente botón:
 
 <div align="center">
 
-![asistencia](/img/img_manual/img_documentacion/icono_registro_asistencia.png)
+![Asistencia](/img/img_manual/img_documentacion/icono_registro_asistencia.png)
 
 </div>
 
-vii. **Plantillla de capacitación**: Plantilla en formato pdf para su descarga.
+vii. **Plantilla de capacitación**: Plantilla en formato PDF para su descarga.
 
 ### ¿Cómo agregar una capacitación que genere acreditación?
 
@@ -79,7 +79,7 @@ Para ingresar una debemos dirigirnos a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Documentación → Empresa → Registro de capacitaciones
+Menú SFTI Pro → Documentación → Empresa → Registro de capacitaciones
 ```
 </div>
 
@@ -91,9 +91,9 @@ Al momento de agregar la capacitación en el formulario saldrá esta casilla:
 
 </div>
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/cmC_Z3VCZBI?si=mvPGHPF_FBEx03pm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/cmC_Z3VCZBI/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -101,16 +101,16 @@ Luego de hacer clic en el recuadro el sistema cargará lo siguiente:
 
 <div align="center">
 
-![presionar casilla](/img/img_manual/img_documentacion/2023-09-22_13-35.png)
+![Presionar casilla](/img/img_manual/img_documentacion/2023-09-22_13-35.png)
 
 </div>
 
-Al finalizar el registro verá la acreditación en documento por el botón de PDF, y tambien podrá ver la acreditación desde la información agregada del trabajador dirigiendose a:
+Al finalizar el registro verá la acreditación del documento en el botón PDF, y también podrá ver la acreditación desde la información agregada del trabajador dirigiendose a:
 
 <div align="center">
 
 ```bash
-Menú SafeTI → Estructura Organizacional → Trabajador
+Menú SFTI Pro → Estructura Organizacional → Trabajador
 ```
 </div>
 
@@ -118,13 +118,13 @@ Desde el siguiente botón:
 
 <div align="center">
 
-![acreditación trabajador](/img/img_manual/img_documentacion/2023-09-22_14-01.png)
+![Acreditación trabajador](/img/img_manual/img_documentacion/2023-09-22_14-01.png)
 
 </div>
 
 viii. **Filtros**: Es para que el usuario pueda seleccionar datos que sean relevantes para su búsqueda, entre los filtros se encuentran:
 
-* **Rango de fechas**: Deberá hacer clic en el recuadro al lado para asi poder filtrar según el rango de fechas que requiera.
+* **Rango de fechas**: Deberá hacer clic en el recuadro al lado para así poder filtrar según el rango de fechas que requiera.
 
 * **Tema**: Según traté la capacitación.
 

@@ -3,6 +3,6 @@
     "position": 5,
     "link": {
       "type": "generated-index",
-      "description": "Este modulo de SafeTI ....."
+      "description": "Permite tener un registro de los equipos disponibles en su empresa, así como los medios de transporte y equipos de emergencia."
     }
   }

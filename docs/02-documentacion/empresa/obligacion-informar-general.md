@@ -13,7 +13,7 @@ Para ingresar un nuevo ODI debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Documentación → Empresa → Obligación de informar (general)  
+Menú SFTI Pro → Documentación → Empresa → Obligación de informar (general)
 ```
 </div>
 
@@ -21,15 +21,15 @@ El sistema mostrará una tabla con todos los registros de obligación de informa
 
 <div align="center">
 
-![inicio](/img/img_manual/img_documentacion/2023-08-09_11-43.png)
+![Inicio](/img/img_manual/img_documentacion/2023-08-09_11-43.png)
 
 </div>
 
 1. **Agregar**: Para ingresar un nuevo ODI general.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/_uxNrzFurcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/_uxNrzFurcI/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -40,16 +40,3 @@ El sistema mostrará una tabla con todos los registros de obligación de informa
 * **Rango de fechas**: Deberá hacer clic en el recuadro al lado para así poder filtrar según el rango de fechas que requiera.
 
 * **Realizada por**: Usuario a cargo de efectuar el registro.
-
-
-
-
-
-
-
-
-
-
-
-
-

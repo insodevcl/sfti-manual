@@ -9,7 +9,7 @@ Para ingresar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → HEMTIE → Maquinarias → Tipos
+Menú SFTI Pro → HEMTIE → Maquinarias → Tipos
 ```
 </div>
 
@@ -24,9 +24,9 @@ El sistema mostrará una tabla con todos los tipos de maquinarias de la empresa 
 
 Para ingresar un nuevo tipo de maquinaria, debe hacer clic en el botón **“+ Agregar maquinaria tipo”**, se desplegará un formulario para que ingrese el nombre y descripción del tipo:
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/iKYmpUqkayQ?si=y9FCth80xQ2YAa9V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/iKYmpUqkayQ/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -44,9 +44,9 @@ Luego de ingresar los datos debe hacer clic en el botón **“Guardar”**, esto
 
 </div>
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/bv_Y8ZGTeIc?si=u1hIOYyka_QMIqIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/bv_Y8ZGTeIc/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -54,15 +54,15 @@ Luego de ingresar los datos debe hacer clic en el botón **“Guardar”**, esto
 
 <div align="center">
 
-![documentación](/img/img_manual/img_hemtie_equipo/2023-08-31_11-25.png)
+![Documentación](/img/img_manual/img_hemtie_equipo/2023-08-31_11-25.png)
 
 </div>
 
-Debe hacer clic en el botón **"Agregar documentación"**, debe definir el formato del recurso que agregara: documento, video, audio, etc., tambien debe dar una descripción y finalmente una url al recurso.
+Debe hacer clic en el botón **"Agregar documentación"**, debe definir el formato del recurso que agregara: documento, video, audio, etc., también debe dar una descripción y finalmente una URL al recurso.
 
 <div align="center">
 
-![agregar documentación](/img/img_manual/img_hemtie_equipo/2023-08-31_11-26.png)
+![Agregar documentación](/img/img_manual/img_hemtie_equipo/2023-08-31_11-26.png)
 
 </div>
 
@@ -70,7 +70,7 @@ En el _"Listado de documentación para la maquinaria tipo"_ dispone de la column
 
 <div align="center">
 
-![editar documentación](/img/img_manual/img_hemtie_equipo/2023-08-31_11-26_1.png)
+![Editar documentación](/img/img_manual/img_hemtie_equipo/2023-08-31_11-26_1.png)
 
 </div>
 

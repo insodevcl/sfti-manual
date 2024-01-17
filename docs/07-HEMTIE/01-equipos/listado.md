@@ -8,7 +8,7 @@ Para ingresar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → HEMTIE → Equipos → Listado 
+Menú SFTI Pro → HEMTIE → Equipos → Listado
 ```
 </div>
 
@@ -22,9 +22,9 @@ El sistema mostrará una tabla con todos los registros de equipos agregados:
 
 1. **Agregar nuevo equipo**: Deberá completar los campos solicitados para crear un nuevo equipo y luego presiona **"continuar"** para guardar los cambios.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/xvlEv1w180c?si=-Y_11GzTOLdVFIDu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/xvlEv1w180c/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -37,18 +37,18 @@ El sistema mostrará una tabla con todos los registros de equipos agregados:
 
 * **Componentes**: Podrá agregar los componentes anexos necesarios del equipo. 
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/ITTk01x6H84?si=sE9zgAmC5jsRluKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/ITTk01x6H84/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
-### ¿Cómo agregar una proxima mantención?
-* **Proxima mantención**: Podrá agregar mantenciones al equipo.
+### ¿Cómo agregar una próxima mantención?
+* **Próxima mantención**: Podrá agregar mantenciones al equipo.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/MXNeL_N0_xk?si=yoYESRiFQTQNVIET" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/MXNeL_N0_xk/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -56,19 +56,19 @@ El sistema mostrará una tabla con todos los registros de equipos agregados:
 
 * **Entregas**: Podrá agregar entregas a el que requiera.
 
-<div align="center">
+<div class="video-responsive">
  
-<iframe width="800" height="384" src="https://www.youtube.com/embed/R7kD0bK70Xg?si=tc2ih5PysNhVEW5H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/R7kD0bK70Xg/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
-### ¿Cómo aplicar una auitoria?
+### ¿Cómo aplicar una auditoría?
 
-* **Auditorias realizadas**: Podrá aplicar una auditoria relacionada al equipo.
+* **Auditorías realizadas**: Podrá aplicar una auditoría relacionada con el equipo.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/258j3lUulHE?si=88QBO5KPDUEUb1TS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/258j3lUulHE/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 

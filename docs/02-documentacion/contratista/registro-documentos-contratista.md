@@ -9,7 +9,7 @@ Para ingresar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Documentación → Contratista → Registro de documentos
+Menú SFTI Pro → Documentación → Contratista → Registro de documentos
 ```
 </div>
 
@@ -22,9 +22,9 @@ El sistema mostrará una tabla con todos los documentos contratista de la empres
 
 1. **Agregar**: Para ingresar un nuevo registro de documento.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/0BGdgCT78Q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/0BGdgCT78Q0/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 

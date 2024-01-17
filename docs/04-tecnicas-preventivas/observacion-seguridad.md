@@ -9,7 +9,7 @@ Para ingresar una debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Técnicas preventivas → Observación de seguridad
+Menú SFTI Pro → Técnicas preventivas → Observación de seguridad
 ```
 </div>
 
@@ -17,15 +17,15 @@ El sistema mostrará una tabla con todo el listado de observación de seguridad 
 
 <div align="center">
 
-![inicio](/img/img_manual/img_tecnicas_preventivas/2023-08-17_16-41.png)
+![Inicio](/img/img_manual/img_tecnicas_preventivas/2023-08-17_16-41.png)
 
 </div>
 
 1. **Agregar**: Para agregar una observación de seguridad.
 
-<div align="center">
+<div class="video-responsive">
    
-<iframe width="800" height="384" src="https://www.youtube.com/embed/bzUm7Z6FvTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/bzUm7Z6FvTc/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 

@@ -9,7 +9,7 @@ Para ingresar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Técnicas preventivas → Análisis de riesgos del trabajo
+Menú SFTI Pro → Técnicas preventivas → Análisis de riesgos del trabajo
 ```
 </div>
  
@@ -17,16 +17,16 @@ Menú SafeTI → Técnicas preventivas → Análisis de riesgos del trabajo
 
  <div align="center">
 
-![inicio](/img/img_manual/img_tecnicas_preventivas/2023-08-18_10-00.png)
+![Inicio](/img/img_manual/img_tecnicas_preventivas/2023-08-18_10-00.png)
 
 </div>
 
 
 1. **Agregar**: Para ingresar un nuevo registro de análisis de riesgos.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/0zyfFr9Evuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/0zyfFr9Evuo/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -38,7 +38,7 @@ Menú SafeTI → Técnicas preventivas → Análisis de riesgos del trabajo
 
 5. **Filtros**: Es para que el usuario pueda seleccionar datos que sean relevantes para su búsqueda, entre los filtros se encuentran:
 
-* **Rango de fechas**: Deberá hacer clic en el recuadro al lado para asi poder filtrar según el rango de fechas que requiera.
+* **Rango de fechas**: Deberá hacer clic en el recuadro al lado para así poder filtrar según el rango de fechas que requiera.
 
 * **Tipo**: Podrá filtrar según lo requiera.
 

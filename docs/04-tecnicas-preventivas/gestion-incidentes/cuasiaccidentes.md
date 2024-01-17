@@ -9,7 +9,7 @@ Para ingresar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Técnicas preventivas → Gestión de incidentes → Procedimiento de investigación de cuasiaccidentes
+Menú SFTI Pro → Técnicas preventivas → Gestión de incidentes → Procedimiento de investigación de cuasiaccidentes
 ```
 </div>
  
@@ -17,15 +17,15 @@ El sistema mostrará una tabla con todo el listado de cuasiaccidentes de la empr
 
 <div align="center">
 
-![inicio](/img/img_manual/img_tecnicas_preventivas/2023-08-18_13-58.png)
+![Inicio](/img/img_manual/img_tecnicas_preventivas/2023-08-18_13-58.png)
 
 </div>
 
 1. **Agregar**: Para ingresar un nuevo registro de cuasiaccidentes.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/XxzswatS61k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/XxzswatS61k/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -43,13 +43,13 @@ El sistema mostrará una tabla con todo el listado de cuasiaccidentes de la empr
 
 * **Ver registro**: Podrá visualizar o descargar el documento de investigación de cuasi accidentes en pdf.
 
-### ¿Cómo agregar una delcración de trabajadores?
+### ¿Cómo agregar una declaración de trabajadores?
 
 1. **Declaración de trabajadores**: Podrá realizar la declaración para luego descargar el documento y cargarlo a la plataforma firmado por sus respectivos.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/D9Zd6D42sws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/D9Zd6D42sws/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -57,9 +57,9 @@ El sistema mostrará una tabla con todo el listado de cuasiaccidentes de la empr
 
 2. **Declaración de testigos**: Podrá realizar la declaración de testigos de empresa y prestador de servicios para luego descargar los documentos y cargarlos a la plataforma firmados por sus respectivos.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/7R1RogojF6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/7R1RogojF6g/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -67,9 +67,9 @@ El sistema mostrará una tabla con todo el listado de cuasiaccidentes de la empr
 
 3. **Investigación del cuasi accidente**: Podrá agregar investigaciones del cuasi accidente.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/zpcpJMwdu8k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/zpcpJMwdu8k/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -77,8 +77,8 @@ El sistema mostrará una tabla con todo el listado de cuasiaccidentes de la empr
 
 4. **Cumplimiento de tareas**: Podrá configurar el estado de las tareas ligadas a la investigación.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/q8TRnTBsXuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/q8TRnTBsXuQ/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>

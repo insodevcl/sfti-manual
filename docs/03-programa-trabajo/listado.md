@@ -3,7 +3,7 @@ sidebar_position: 1
 custom_edit_url: null
 ---
 # Listado Programas de Trabajo
-Aquí construye su programa de trabajo, SafeTI le ayuda a construir su matriz de trabajo.
+Aquí construye su programa de trabajo, SFTI Pro le ayuda a construir su matriz de trabajo.
 
 * ¿Qué se entiende por "Programa de Trabajo"?
 * ¿Cómo crear un programa de trabajo?
@@ -25,15 +25,15 @@ En el Menú **"Programa de Trabajo"** debe seleccionar la opción "Listado":
 <div align="center">
 
 ```bash
-Menú SafeTI → Programa de Trabajo → Listado
+Menú SFTI Pro → Programa de Trabajo → Listado
 ```
 </div>
 
 Posteriormente se selecciona la opción **"Agregar"** en la esquina superior derecha.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/E5rBxqxeCNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/E5rBxqxeCNg/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -41,7 +41,7 @@ Una vez creado el programa de trabajo solicitará indicar una descripción del m
 
 <div align="center">
 
-![inicio](/img/img_manual/img_programa_trabajo/2023-08-16_12-59.png)
+![Inicio](/img/img_manual/img_programa_trabajo/2023-08-16_12-59.png)
 
 </div>
 
@@ -57,7 +57,7 @@ Se muestran de esta manera luego de agregar un nuevo **"Programa de Trabajo”**
 
 <div align="center">
 
-![actividades](/img/img_manual/img_programa_trabajo/2023-08-16_17-10.png)
+![Actividades](/img/img_manual/img_programa_trabajo/2023-08-16_17-10.png)
 
 </div>
 
@@ -71,7 +71,7 @@ Para acceder a los botones de acción ubicados en **"Listado Programa de Trabajo
 
 <div align="center">
 
-![programa](/img/img_manual/img_programa_trabajo/2023-08-16_17-14.png)
+![Programa](/img/img_manual/img_programa_trabajo/2023-08-16_17-14.png)
 
 </div>
 
@@ -89,7 +89,7 @@ Para el de estado **"Terminado"** verá un botón con la acción:
 
 <div align="right">
 
-![ver estado](/img/img_manual/img_programa_trabajo/2023-08-16_17-15.png)
+![Ver estado](/img/img_manual/img_programa_trabajo/2023-08-16_17-15.png)
 
 </div>
 
@@ -97,7 +97,7 @@ Al presionar el botón **"Ver Estado"** se cargará una nueva pestaña donde pod
 
 <div align="center">
 
-![estado](/img/img_manual/img_programa_trabajo/2023-08-16_17-18.png)
+![Estado](/img/img_manual/img_programa_trabajo/2023-08-16_17-18.png)
 
 </div>
 
@@ -107,7 +107,7 @@ Para el estado **"En Construcción"** verá tres botones con las acciones:
 
 <div align="center">
 
-![editar](/img/img_manual/img_programa_trabajo/2023-08-16_17-20.png)
+![Editar](/img/img_manual/img_programa_trabajo/2023-08-16_17-20.png)
 
 </div>
 
@@ -117,7 +117,7 @@ Al presionar el botón **"Editar"** se cargará una nueva pestaña donde podrá 
 
 <div align="center">
 
-![matriz](/img/img_manual/img_programa_trabajo/2023-08-16_17-21.png)
+![Matriz](/img/img_manual/img_programa_trabajo/2023-08-16_17-21.png)
 
 </div>
 
@@ -127,7 +127,7 @@ Al presionar el botón **"Matriz"** se cargará una nueva pestaña donde podrá 
 
 <div align="center">
 
-![eliminar](/img/img_manual/img_programa_trabajo/2023-08-16_17-22.png)
+![Eliminar](/img/img_manual/img_programa_trabajo/2023-08-16_17-22.png)
 
 </div>
 

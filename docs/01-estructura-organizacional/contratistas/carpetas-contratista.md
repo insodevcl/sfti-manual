@@ -22,12 +22,12 @@ Todos los contratistas, subcontratistas, empresas de servicios transitorios y/o 
 Esta información se deberá ser enviada a la empresa mandante.
 
 ## Configuración de carpetas contratistas
-Durante la implementación de SafeTI se deben configurar las carpetas de contratistas, estas carpetas tiene 3 categorias:
+Durante la implementación de SafeTI se deben configurar las carpetas de contratistas, estas carpetas tiene 3 categorías:
 * Carpetas de empresa
 * Carpetas de trabajador
 * Carpetas de transporte
 
-Las carpetas de empresa y trabajador deben tener en su configuración un regimen:
+Las carpetas de empresa y trabajador deben tener en su configuración un régimen:
 * Indefinido
 * Anual
 * Mensual
@@ -38,7 +38,7 @@ Debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Estructura Organizacional → Contratista
+Menú SFTI Pro → Estructura Organizacional → Contratista
 ```
 </div>
 
@@ -54,15 +54,15 @@ Luego de presionar el botón, el sistema nos cargará lo siguiente:
 
 <div align="center">
 
-![configuración](/img/img_manual/img_estructura_organizacional/2023-10-04_13-21.png)
+![Configuración](/img/img_manual/img_estructura_organizacional/2023-10-04_13-21.png)
 
 </div>
 
-Podremos agregar unos nuevos parametros de carpetas o seleccionar esquemas preestablecidos:
+Podremos agregar unos nuevos parámetros de carpetas o seleccionar esquemas preestablecidos:
 
 <div align="center">
 
-![esquemas](/img/img_manual/img_estructura_organizacional/2023-10-04_13-31.png)
+![Esquemas](/img/img_manual/img_estructura_organizacional/2023-10-04_13-31.png)
 
 </div>
 
@@ -70,7 +70,7 @@ Luego de elegir nuestra configuración procedemos a presionar el botón **"Guard
 
 <div align="center">
 
-![vista de carpetas](/img/img_manual/img_estructura_organizacional/2023-10-04_13-43.png)
+![Vista de carpetas](/img/img_manual/img_estructura_organizacional/2023-10-04_13-43.png)
 
 </div>
 
@@ -79,7 +79,7 @@ Nos cargará lo siguiente, donde podremos visualizar los documentos requeridos d
 
 <div align="center">
 
-![sistema de archivos](/img/img_manual/img_estructura_organizacional/2023-10-04_13-46.png)
+![Sistema de archivos](/img/img_manual/img_estructura_organizacional/2023-10-04_13-46.png)
 
 </div>
 
@@ -87,7 +87,7 @@ Luego de visualizar las carpetas ingresaremos a la que deseamos cargar.
 
 <div align="center">
 
-![archivo contratista](/img/img_manual/img_estructura_organizacional/2023-10-04_13-56.png)
+![Archivo contratista](/img/img_manual/img_estructura_organizacional/2023-10-04_13-56.png)
 
 </div>
 
@@ -95,7 +95,7 @@ Para cargar/subir un documento debemos presionar el siguiente botón:
 
 <div align="center">
 
-![subir documento](/img/img_manual/img_estructura_organizacional/2023-10-04_13-58.png)
+![Subir documento](/img/img_manual/img_estructura_organizacional/2023-10-04_13-58.png)
 
 </div>
 
@@ -107,19 +107,19 @@ Luego de subir nuestro documento, se visualizará de la siguiente forma:
 
 </div>
 
-Nuestro archivo permacererá en color gris ya que auń no ha sido revisado por la empresa contratante, podremos saber mas presionando el siguiente botón:
+Nuestro archivo permanecerá en color gris, ya que aún no ha sido revisado por la empresa contratante, podremos saber más presionando el siguiente botón:
 
 <div align="center">
 
-![botón leyenda](/img/img_manual/img_estructura_organizacional/2023-10-04_14-06.png)
+![Botón leyenda](/img/img_manual/img_estructura_organizacional/2023-10-04_14-06.png)
 
 </div>
 
-Se visualizará lo siguiente, tendremos mas información sobre como cargar/subir los archivos (idealmente todos los archivos/documentos cargados deben tener vista previa).
+Se visualizará lo siguiente, tendremos más información sobre como cargar/subir los archivos (idealmente todos los archivos/documentos cargados deben tener vista previa).
 
 <div align="center">
 
-![leyenda](/img/img_manual/img_estructura_organizacional/2023-10-04_14-10.png)
+![Leyenda](/img/img_manual/img_estructura_organizacional/2023-10-04_14-10.png)
 
 </div>
 
@@ -128,11 +128,11 @@ Para aprobar o rechazar los documentos cargados debemos dirigirnos al listado de
 <div align="center">
 
 ```bash
-Menú SafeTI → Estructura Organizacional → Contratista
+Menú SFTI Pro → Estructura Organizacional → Contratista
 ```
 </div>
 
-Dependiendo de que documento quiere visualizar para aprobar o rechazar, presioanará uno de los siguientes botones:
+Dependiendo de que documento quiere visualizar para aprobar o rechazar, hacer clic en uno de los siguientes botones:
 
 <div align="center">
 
@@ -140,13 +140,13 @@ Dependiendo de que documento quiere visualizar para aprobar o rechazar, presioan
 
 </div>
 
-Los documentos que estan en espera de ser aprobados o rechazados se visualizaran con color **"Naranjo"** y los documentos que esten rechazados se visualizaran con color **"Rojo"**.
+Los documentos que están en espera de ser aprobados o rechazados se visualizaran con color **"Naranjo"** y los documentos que estén rechazados se visualizaran con color **"Rojo"**.
 
 Luego de presionar el botón que requerimos nos cargará lo siguiente:
 
 <div align="center">
 
-![documentos por validar](/img/img_manual/img_estructura_organizacional/2023-10-04_14-20.png)
+![Documentos por validar](/img/img_manual/img_estructura_organizacional/2023-10-04_14-20.png)
 
 </div>
 
@@ -154,15 +154,15 @@ Presionando el siguiente botón podremos tener una vista previa del documento:
 
 <div align="center">
 
-![ver](/img/img_manual/img_estructura_organizacional/2023-10-04_14-21.png)
+![Ver](/img/img_manual/img_estructura_organizacional/2023-10-04_14-21.png)
 
 </div>
 
-Para aporobar el documento debemos presionar el siguiente botón:
+Para aprobar el documento debemos hacer clic en el siguiente botón:
 
 <div align="center">
 
-![botón aprobar](/img/img_manual/img_estructura_organizacional/2023-10-04_14-23.png)
+![Botón aprobar](/img/img_manual/img_estructura_organizacional/2023-10-04_14-23.png)
 
 </div>
 
@@ -171,15 +171,15 @@ Para rechazar el documento debemos presionar el siguiente botón:
 
 <div align="center">
 
-![botón rechazar](/img/img_manual/img_estructura_organizacional/2023-10-04_14-24.png)
+![Botón rechazar](/img/img_manual/img_estructura_organizacional/2023-10-04_14-24.png)
 
 </div>
 
-En el caso de que hayan rechazado el documento  nos dirigiremos a vista de carpetas, a la carpeta que cargamos el documento y se visualizará de la siguiente manera:
+En el caso de que hayan rechazado el documento, nos dirigiremos a vista de carpetas, a la carpeta que cargamos el documento y se visualizará de la siguiente manera:
 
 <div align="center">
 
-![documento rechazado](/img/img_manual/img_estructura_organizacional/2023-10-04_14-27.png)
+![Documento rechazado](/img/img_manual/img_estructura_organizacional/2023-10-04_14-27.png)
 
 </div>
 

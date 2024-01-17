@@ -9,7 +9,7 @@ Para ingresar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → HEMTIE → Transportes → Listado
+Menú SFTI Pro → HEMTIE → Transportes → Listado
 ```
 </div>
 
@@ -23,9 +23,9 @@ El sistema mostrará una tabla con todo el listado de transportes de la empresa 
 
 1. **Agregar**: Para ingresar un nuevo registro de transporte.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/oGcp0FJ_PkE?si=PX1ewdkNEfV84uW6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/oGcp0FJ_PkE/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -37,9 +37,9 @@ El sistema mostrará una tabla con todo el listado de transportes de la empresa 
 
 </div>
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/aGw3iWYF4ao?si=EXSeQPcjIcycA8jV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/aGw3iWYF4ao/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -49,22 +49,22 @@ El sistema mostrará una tabla con todo el listado de transportes de la empresa 
 
 <div align="center">
 
-![entrega](/img/img_manual/img_hemtie_equipo/2023-09-01_12-20.png)
+![Entrega](/img/img_manual/img_hemtie_equipo/2023-09-01_12-20.png)
 
 </div>
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/mB6_txjG1rE?si=wfgEWN3orG43z2hT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/mB6_txjG1rE/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
 
-* **Auditorias realizadas**: Podrá aplicar una auditoria, la auditoria tiene que ser específica a la categoria transporte.
+* **Auditorias realizadas**: Podrá aplicar una auditoria, la auditoria tiene que ser específica a la categoría transporte.
 
 <div align="center">
 
-![auditoria](/img/img_manual/img_hemtie_equipo/2023-09-01_12-22.png)
+![Auditoria](/img/img_manual/img_hemtie_equipo/2023-09-01_12-22.png)
 
 </div>
  
@@ -75,9 +75,9 @@ El sistema mostrará una tabla con todo el listado de transportes de la empresa 
 * **Gráficos**: Podrá visualizar el resultado en gráficos de la auditoria.
 
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/TivDXRIEJEA?si=2pl-lr2-z8hrtspM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/TivDXRIEJEA/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -91,16 +91,16 @@ El sistema mostrará una tabla con todo el listado de transportes de la empresa 
 
 </div>
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/ZaFB90xxWUw?si=ZRh2ubEXfnhPGAPL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/ZaFB90xxWUw/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
 
 3. **Fotografía**: Podrá visualizar la fotografía adjuntada.
 
-4. **QR**: Podrá visualizar el codigo QR en formato PDF para imprimir.
+4. **QR**: Podrá visualizar el código QR en formato PDF para imprimir.
 
 **Filtros**: Es para que el usuario pueda seleccionar datos que sean relevantes para su búsqueda, entre los filtros se encuentran:
 

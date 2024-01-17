@@ -3,7 +3,7 @@ sidebar_position: 1
 custom_edit_url: null
 ---
 # Listado Permisos de Trabajo
-En **SafeTI** puede generar un permiso de trabajo a un colaborador o contratista, asignarle subárea, lugar, hora de inicio y termino, podrá también individualizar los trabajos a realizar. Puede tomar registro de los elementos que necesitarán para poder desarrollar el trabajo, como los elementos de protección personal, las herramientas, los equipo, las maquinarias, el transporte y la instalación. Cree un plan de acción, asignando medidas de control con supervisor y responsable.
+En **SFTI Pro** puede generar un permiso de trabajo a un colaborador o contratista, asignarle subárea, lugar, hora de inicio y termino, podrá también individualizar los trabajos a realizar. Puede tomar registro de los elementos que necesitarán para poder desarrollar el trabajo, como los elementos de protección personal, las herramientas, los equipo, las maquinarias, el transporte y la instalación. Cree un plan de acción, asignando medidas de control con supervisor y responsable.
 
 ## Generar un permiso de trabajo
 Para generar una solicitud de permiso de trabajo, debe dirigirse a:
@@ -11,7 +11,7 @@ Para generar una solicitud de permiso de trabajo, debe dirigirse a:
 <div align="center">
 
 ```bash
- Menú SafeTI → Permisos de Trabajo → Listado
+ Menú SFTI Pro → Permisos de Trabajo → Listado
 ```
 </div>
 
@@ -25,9 +25,9 @@ Si necesita buscar algún permiso de trabajo generado con anterioridad, puede ut
 
 </div>
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/Xf9PfZ1eyzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/Xf9PfZ1eyzY/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -42,7 +42,7 @@ Pulse el botón **"+Agregar"**, se desplegará una nueva ventana para ingresar l
 
 <div align="center">
 
-![primer segmento](/img/img_manual/img_permisos_trabajo/2023-08-23_12-16.png)
+![Primer segmento](/img/img_manual/img_permisos_trabajo/2023-08-23_12-16.png)
 
 </div>
 
@@ -50,7 +50,7 @@ En el **segundo segmento** de la solicitud del permiso de trabajo, puede selecci
 
 <div align="center">
 
-![segundo segmento](/img/img_manual/img_permisos_trabajo/2023-08-23_12-18.png)
+![Segundo segmento](/img/img_manual/img_permisos_trabajo/2023-08-23_12-18.png)
 
 </div>
 
@@ -58,7 +58,7 @@ En el **tercer segmento**, complete cada uno de los datos solicitados: elementos
 
 <div align="center">
 
-![tercer segmento](/img/img_manual/img_permisos_trabajo/2023-08-23_12-19.png)
+![Tercer segmento](/img/img_manual/img_permisos_trabajo/2023-08-23_12-19.png)
 
 </div>
 
@@ -66,7 +66,7 @@ En el **cuarto segmento**, podrá crear un plan de acción, en el cual podrá as
 
 <div align="center">
 
-![cuarto segmento](/img/img_manual/img_permisos_trabajo/2023-08-23_12-21.png)
+![Cuarto segmento](/img/img_manual/img_permisos_trabajo/2023-08-23_12-21.png)
 
 </div>
 
@@ -74,6 +74,6 @@ Puede notificar al personal de su empresa, seleccionándolo en la lista desplega
 
 Para finalizar la solicitud de trabajo debe hacer clic en el botón **“Continuar”**.
 
-Las tareas generadas, podrán ser seguidas desde el administrador de tareas de SafeTI.
+Las tareas generadas, podrán ser seguidas desde el administrador de tareas de SFTI Pro.
 
-Para ver el documento generado del permiso de trabajo debe presionar el bóton que se encuentra en la casilla de acción, donde podrá descargar el documento para luego firmarlo por sus respectivos y cargarlo a la plataforma ya firmado.
+Para ver el documento generado del permiso de trabajo debe presionar el botón que se encuentra en la casilla de acción, donde podrá descargar el documento para luego firmarlo por sus respectivos y cargarlo a la plataforma ya firmado.
