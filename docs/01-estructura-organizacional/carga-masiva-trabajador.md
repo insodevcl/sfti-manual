@@ -76,7 +76,7 @@ En la plantilla modelo ***“empresa_trabajador_carga_masiva_.xlsx”***, encont
 | 14 | Cargo | Requerido | Desplegable, seleccione una opción. |
 | 15 | Tipo de contrato | Requerido | Desplegable, seleccione una opción. |
 | 16 | Fecha de ingreso | Requerido | En formato año-mes-día (2022-12-31). |
-| 17 | Fecha de término | Requerido | Si el contrato no es indefinido). |
+| 17 | Fecha de término | Requerido | Si el contrato no es indefinido. |
 | 18 | Hora de inicio | Opcional | En formato HH:MM (08:00). |
 | 19 | Hora de término | Opcional | En formato HH:MM (18:00). |
 
