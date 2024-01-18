@@ -1,9 +1,8 @@
 {
     "label": "Configuración",
     "position": 2,
-    "link": 
-      {
+    "link": {
         "type": "generated-index",
-        "description": "Este modulo tiene 4 submodulos."
+        "description": "En este módulo de SFTI Pro puede configurar los parametros mas importantes de la plataforma,como las áreas y subáreas, cargos, elementos de protección personal, notificaciones, etc."
       }
 }

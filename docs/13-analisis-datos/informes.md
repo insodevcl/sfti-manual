@@ -9,7 +9,7 @@ Para obtener uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Análisis de datos → Informes
+Menú SFTI Pro → Análisis de datos → Informes
 ```
 </div>
 
@@ -21,9 +21,9 @@ El sistema mostrará listados divididos para su mejor comprensión de esta forma
 
 </div>
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/oFMX7pdMocc?si=gndZ05AOimNncUQD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/oFMX7pdMocc/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -31,16 +31,16 @@ Al hacer clic en el informe que requiera se desplegará un botón de **"obtener"
 
 <div align="center">
 
-![obtener](/img/img_manual/img_analisis_datos/2023-09-21_10-45.png)
+![Obtener](/img/img_manual/img_analisis_datos/2023-09-21_10-45.png)
 
 
 </div>
 
-Luego de presionar el botón se abrirá un formulario seleccionable, esto dependera de que informe requiera sacar.
+Luego de presionar el botón se abrirá un formulario seleccionable, esto dependerá de que informe requiera sacar.
 
 <div align="center">
 
-![formulario](/img/img_manual/img_analisis_datos/2023-09-21_10-46.png)
+![Formulario](/img/img_manual/img_analisis_datos/2023-09-21_10-46.png)
 
 </div>
 

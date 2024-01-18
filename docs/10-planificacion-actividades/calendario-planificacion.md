@@ -9,7 +9,7 @@ Para ingresar una debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Planificación de actividades  → Calendario planificación de actividades
+Menú SFTI Pro → Planificación de actividades → Calendario planificación de actividades
 ```
 </div>
 
@@ -29,9 +29,9 @@ El sistema mostrará el calendario de esta forma:
 
 </div>
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/LGyBUSyL8Q8?si=BrLlsYBNi2FI92iw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/LGyBUSyL8Q8/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 </div>
@@ -45,7 +45,7 @@ Al terminar de completar nuestra actividad se visualizara en el calendario, al h
 
 </div>
 
-Al hacer clic en el botón **Ver** podrá visualizar su actividad de está forma: 
+Al hacer clic en el botón **Ver** podrá visualizar su actividad de la siguiente forma: 
 
 <div align="center">
 
@@ -61,20 +61,20 @@ Al hacer clic en el botón **"Estado de acta de reunión"** se abrirá el siguie
 
 </div>
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/vPE2-6TeHkU?si=Rp0KX2g_3Qy2QG1v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/vPE2-6TeHkU/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
-Luego de finalizar podrás visualizar el acta creada desde el calendario o tambien por:
+Luego de finalizar podrás visualizar el acta creada desde el calendario o también por:
 
 ### Listado Actas Planificación de Actividades
 
 <div align="center">
 
 ```bash
-Menú SafeTI → Planificación de actividades  → Listado de actas planificación de actividades
+Menú SFTI Pro → Planificación de actividades → Listado de actas planificación de actividades
 ```
 </div>
 
@@ -90,7 +90,7 @@ Para ver el documento generado por el registro debe presionar el botón que est�
 
 <div align="center">
 
-![icono](/img/img_manual/img_calendario_planificacion/2023-09-08_11-06.png)
+![Icono](/img/img_manual/img_calendario_planificacion/2023-09-08_11-06.png)
 
 </div>
 
@@ -105,13 +105,13 @@ Luego de descargar el documento y cargarlo firmarlo por sus respectivos para dig
 
 <div align="center">
 
-![cargado](/img/img_manual/img_calendario_planificacion/2023-09-08_11-40.png)
+![Cargado](/img/img_manual/img_calendario_planificacion/2023-09-08_11-40.png)
 
 </div>
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/ed6iHeHYmVI?si=SMUH8wqktSKgEXxt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/ed6iHeHYmVI/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 

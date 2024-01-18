@@ -10,7 +10,7 @@ Para ingresar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Gestión de calidad → Registro microbiológico
+Menú SFTI Pro → Gestión de calidad → Registro microbiológico
 ```
 </div>
 
@@ -26,7 +26,7 @@ El sistema mostrará una tabla con los registros microbiológicos:
 
 <div align="center">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/f8ecpQr6pMc?si=wu5FhAcTxa7Uak_i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/f8ecpQr6pMc/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -40,14 +40,14 @@ Al finalizar el ingreso de datos, el sistema te llevará al listado donde verás
 
 </div>
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/XtW6aWZN7uU?si=V5XutchTTVx2WrmW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/XtW6aWZN7uU/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 </div>
 
-* **Ver**: Podrá descargar el registro en documento pdf, presionando el siguiente botón:
+* **Ver**: Podrá descargar el registro en documento PDF, presionando el siguiente botón:
 
 <div align="center">
 
@@ -56,25 +56,10 @@ Al finalizar el ingreso de datos, el sistema te llevará al listado donde verás
 </div>
 
 
-* **Archivo adjunto**: Podra visualizar o descargar el archivo adjunto al registro, presionando el siguiente botón:
+* **Archivo adjunto**: Podrá visualizar o descargar el archivo adjunto al registro, presionando el siguiente botón:
 
 <div align="center">
 
 ![icono adjunto](/img/img_manual/img_gestion_calidad/2023-09-20_17-14.png)
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

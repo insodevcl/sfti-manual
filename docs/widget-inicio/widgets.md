@@ -9,7 +9,7 @@ Para agregar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Ícono de usuario → Widgets
+Menú SFTI Pro → Ícono de usuario → Widgets
 ```
 </div>
 
@@ -23,9 +23,9 @@ El sistema mostrará la configuración de pantalla de inicio:
 
 1. **Agregar elemento**: Podrá agregar un nuevo widgets.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/iQvyeWIOBYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/iQvyeWIOBYc/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 

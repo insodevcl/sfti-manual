@@ -5,7 +5,7 @@ custom_edit_url: null
 # Comité paritario reunión motivo
 
 :::info Información 
-Para realizar esta acción en la plataforma de SFTI, usted debe tener un perfil de **Administrador**.
+Para realizar esta acción en la plataforma de SFTI Pro, usted debe tener un perfil de **Administrador**.
 :::
 
 ## ¿Cómo agregar un motivo de reunión?
@@ -26,6 +26,6 @@ El sistema mostrará una tabla con todos los motivos de reunión de comité pari
 
 </div>
 
-1. **Agregar nuevo motivo de reunión**: Se debe completar el formulario adjunto con los datos del motivo de reunion de comité paritario, una vez terminado presione el botón **"Guardar"** para continuar.
+1. **Agregar nuevo motivo de reunión**: Se debe completar el formulario adjunto con los datos del motivo de reunión de comité paritario, una vez terminado presione el botón **"Guardar"** para continuar.
 
-2. **Editar**: Edite los datos del motivo de reunion y presione el botón **"Guardar"** para guardar los cambios.
+2. **Editar**: Edite los datos del motivo de reunión y presione el botón **"Guardar"** para guardar los cambios.

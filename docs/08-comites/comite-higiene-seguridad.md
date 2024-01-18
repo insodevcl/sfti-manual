@@ -2,7 +2,7 @@
 sidebar_position: 1
 custom_edit_url: null
 ---
-# Listado de CPHS
+# De Higiene y Seguridad
 
 Puede registrar el acta de elecciones así como las reuniones.
 

@@ -5,7 +5,7 @@ custom_edit_url: null
 # Comité paritario documento categoría
 
 :::info Información 
-Para realizar esta acción en la plataforma de SFTI, usted debe tener un perfil de **Administrador**.
+Para realizar esta acción en la plataforma de SFTI Pro, usted debe tener un perfil de **Administrador**.
 :::
 
 ## ¿Cómo agregar una nueva categoría de documento?

@@ -12,7 +12,7 @@ Al no encontrar el correo debemos dirigirnos a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Estructura Organizacional → Trabajador
+Menú SFTI Pro → Estructura Organizacional → Trabajador
 ```
 </div>
 
@@ -80,7 +80,7 @@ En el correo deberá presionar el botón **"Firmar documento"** que lo llevará 
 
 </div>
 
-En la casilla de rut rellenará con la información solicitada que seria el rut de la persona a quien se lo entregaron.
+En la casilla de rut complete la información solicitada, rut de la persona a quien entrega.
 
 ### Código de verificación
 

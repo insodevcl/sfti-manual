@@ -1,7 +1,8 @@
 ---
-sidebar_position: 4
+sidebar_position: 2
 custom_edit_url: null
 ---
+# De Faena
 ## ¿Cómo agregar un comité paritario de faena?
 Para ingresar uno debe dirigirse a:
   

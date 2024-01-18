@@ -8,7 +8,7 @@ Para ingresar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Salud ocupacional → Protocolos de vigilancia
+Menú SFTI Pro → Salud ocupacional → Protocolos de vigilancia
 ```
 </div>
 
@@ -20,21 +20,21 @@ El sistema mostrará una tabla con todos los protocolos de salud ocupacional reg
 
 </div>
 
-1. **Agregar**: Podrá agregar un registro de protocolo prexor.
+1. **Agregar**: Podrá agregar un registro de protocolo Prexor.
 
 <div align="center">
 
-![agregar](/img/img_manual/img_salud_ocupacional/2023-09-12_14-37.png)
+![Agregar](/img/img_manual/img_salud_ocupacional/2023-09-12_14-37.png)
 
 </div>
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/Tdw6KHV0Tg4?si=LnrcxVkV-63mTUs9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/Tdw6KHV0Tg4/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
-Al finalizar tu registro volveras al listado y deberás presionar este botón:
+Al finalizar el registro volverá al listado y deberá presionar el siguiente te botón:
 
 <div align="center">
 
@@ -42,7 +42,7 @@ Al finalizar tu registro volveras al listado y deberás presionar este botón:
 
 </div>
 
-Luego de presionar el botón, el sistema cargará demas campos para completar el registro:
+Luego de presionar el botón, el sistema cargará los demás campos para completar el registro:
 
 <div align="center">
 
@@ -52,16 +52,16 @@ Luego de presionar el botón, el sistema cargará demas campos para completar el
 
 * **Editar registro**: Podrá editar su registro de protocolo como requiera y luego al finalizar presionar el botón **Continuar**.
 
-* **Ver registro**: Cargará otra pestaña donde podrá visualizar o descargar el registro en documento pdf.
+* **Ver registro**: Cargará otra pestaña donde podrá visualizar o descargar el registro en documento PDF.
 
 
 ### ¿Cómo agregar una identificación de riesgo al protocolo?
 
 **Identificación del riesgo**: Podrá agregar una identificación de riegos para localizar aquellos elementos que tienen influencia en generar riesgos para la seguridad de los trabajadores.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/U5dRHMqgt6g?si=KgvJu5WzwePsFpSG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/U5dRHMqgt6g/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -70,7 +70,7 @@ Al presionar el botón de **agregar**.
 
 <div align="center">
 
-![boton](/img/img_manual/img_salud_ocupacional/2023-09-12_16-00.png)
+![Botón](/img/img_manual/img_salud_ocupacional/2023-09-12_16-00.png)
 
 </div>
 
@@ -78,7 +78,7 @@ Cargará este formulario, al finalizar deberá presionar el botón **Continuar**
 
 <div align="center">
 
-![formulario](/img/img_manual/img_salud_ocupacional/2023-09-12_15-44.png)
+![Formulario](/img/img_manual/img_salud_ocupacional/2023-09-12_15-44.png)
 
 </div>
 
@@ -86,7 +86,7 @@ Luego de terminar el registro, volverá al inicio donde presionará el botón de
 
 <div align="center">
 
-![listado](/img/img_manual/img_salud_ocupacional/2023-09-12_16-21.png)
+![Listado](/img/img_manual/img_salud_ocupacional/2023-09-12_16-21.png)
 
 </div>
 
@@ -94,7 +94,7 @@ i. **Agregar**: Podrá agregar un nuevo grupo dentro del protocolo.
 
 <div align="center">
 
-![agregar nuevo grupo](/img/img_manual/img_salud_ocupacional/2023-09-12_16-48.png)
+![Agregar nuevo grupo](/img/img_manual/img_salud_ocupacional/2023-09-12_16-48.png)
 
 </div>
 
@@ -106,16 +106,15 @@ Al finalizar el registro deberá presionar el botón **Continuar** para luego vi
 
 </div>
 
-Al editar el registro tambien podrá agregar nuevos trabajadores al grupo.
+Al editar el registro también podrá agregar nuevos trabajadores al grupo.
 
 <div align="center">
 
-![editar](/img/img_manual/img_salud_ocupacional/2023-09-12_17-15.png)
+![Editar](/img/img_manual/img_salud_ocupacional/2023-09-12_17-15.png)
 
 </div>
 
 Con el botón señalado en rojo podremos agregar nuevos trabajadores.
-
 
 
 ### ¿Cómo agregar actividad a los trabajadores?
@@ -128,7 +127,7 @@ Deberá presionar el siguiente botón:
 
 </div>
 
-El sistema cargará el listado de todos los trabajadores que haya agregado con el grupo  de exposición:
+El sistema cargará el listado de todos los trabajadores que haya agregado con el grupo de exposición:
 
 <div align="center">
 
@@ -140,7 +139,7 @@ Deberá presionar el siguiente botón para agregar una nueva actividad al trabaj
 
 <div align="center">
 
-![nueva actividad](/img/img_manual/img_salud_ocupacional/icono_actividad.png)
+![Nueva actividad](/img/img_manual/img_salud_ocupacional/icono_actividad.png)
 
 </div>
 
@@ -168,7 +167,7 @@ El sistema cargará lo siguiente:
 
 </div>
 
-En el listado de actividades tambien podrá agregar nuevas actividades al trabajador.
+En el listado de actividades también podrá agregar nuevas actividades al trabajador.
 
 **Agregar**: Podrá agregar actividad al trabajador en específico.
 
@@ -182,7 +181,7 @@ Luego de agregar una identificación de grupos de exposición se generará un do
 
 </div>
 
-Podrá descargar el documento ya firmado y cargado a la plataforma, como tambien descargar el documento con nueva información a medida que usted las ingrese.
+Podrá descargar el documento ya firmado y cargado a la plataforma, como también descargar el documento con nueva información a medida que usted las ingrese.
 
 
 ### ¿Cómo agregar una capacitación al protocolo?
@@ -195,9 +194,9 @@ Para ingresar una debe dirigirse a:
 
 </div>
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/MbzAh-KuvsA?si=cp0zsatc4bZgBuxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/MbzAh-KuvsA/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -221,18 +220,18 @@ De forma opcional puede adjuntar un documento que demuestre la asistencia de los
 
 </div>
 
-luego de completar el formulario automaticamente el sistema cargará la asistencia del registro de la capacitación.
+Luego de completar el formulario automáticamente el sistema cargará la asistencia del registro de la capacitación.
 
 <div align="center">
 
-![asistencia capacitación](/img/img_manual/img_salud_ocupacional/2023-09-14_10-02.png)
+![Asistencia capacitación](/img/img_manual/img_salud_ocupacional/2023-09-14_10-02.png)
 
 </div>
 
 Seleccione de la lista los trabajadores asistentes y si fueron aprobados. Puede utilizar el buscador en la parte superior del listado y un contador de asistentes y aprobados.
 De forma opcional se puede adjuntar a cada asistente un documento (Examen, test, etc) que acredite su aprobación.
 
-luego podrá visualizar la capacitación de la siguiente manera, donde podrá editarla/ modificar a su requerimiento:
+Luego podrá visualizar la capacitación de la siguiente manera, donde podrá editarla/ modificar a su requerimiento:
 
 <div align="center">
 
@@ -240,11 +239,11 @@ luego podrá visualizar la capacitación de la siguiente manera, donde podrá ed
 
 </div>
 
-tambien desde el listado podrá agregar una nueva capacitación.
+También desde el listado podrá agregar una nueva capacitación.
 
 ### ¿Cómo agregar un mapa de ruido?
 
-para ingresar un mapa de ruido deberá dirigirse a:
+Para ingresar un mapa de ruido deberá dirigirse a:
 
 <div align="center">
 
@@ -252,9 +251,9 @@ para ingresar un mapa de ruido deberá dirigirse a:
 
 </div>
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/RM4lzK5ojS4?si=HpzR_kSnFIG0u4Y6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/RM4lzK5ojS4/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -282,19 +281,19 @@ al presionar el botón cargará el listado donde se encuentra el registro.
 
 </div>
 
-desde el listado tambien podrá agregar un mapa de ruido presionando el botón **Agregar**.
+Desde el listado también podrá agregar un mapa de ruido presionando el botón **Agregar**.
 
-**Ver**: Podrá tener una vista previa del archivo adjunto, tambien si desea podrá descargarlo.
+**Ver**: Podrá tener una vista previa del archivo adjunto, también si desea podrá descargarlo.
 
 <div align="center">
 
-![vista previa](/img/img_manual/img_salud_ocupacional/2023-09-14_11-17.png)
+![Vista previa](/img/img_manual/img_salud_ocupacional/2023-09-14_11-17.png)
 
 </div>
 
 ### ¿Cómo agregar una evaluación cualitativa al protocolo?
 
-para ingresar una debe dirigirse a:
+Para ingresar una debe dirigirse a:
 
 <div align="center">
 
@@ -302,9 +301,9 @@ para ingresar una debe dirigirse a:
 
 </div>
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/7OiLr3WAJ40?si=pwD7YY7pHm7cAKXR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/7OiLr3WAJ40/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -338,9 +337,9 @@ luego de agregar la evaluación podrá ver su registro presionando el botón:
 
 </div>
 
-tambien desde el listado podrá agregar una nueva evaluación.
+También desde el listado podrá agregar una nueva evaluación.
 
-**Ver**: Podrá tener una vista previa del archivo adjunto, tambien si desea podrá descargarlo.
+**Ver**: Podrá tener una vista previa del archivo adjunto, también si desea podrá descargarlo.
 
 <div align="center">
 
@@ -350,7 +349,7 @@ tambien desde el listado podrá agregar una nueva evaluación.
 
 ### ¿Cómo agregar una evaluación cuantitativa al protocolo?
 
-para ingresar una debe dirigirse a:
+Para ingresar una debe dirigirse a:
 
 <div align="center">
 
@@ -358,9 +357,9 @@ para ingresar una debe dirigirse a:
 
 </div>
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/qT2h5P1AQ6A?si=xaqvf_BmVVKUoLTm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/qT2h5P1AQ6A/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -394,19 +393,19 @@ luego de agregar la evaluación podrá ver su registro presionando el botón:
 
 </div>
 
-tambien desde el listado podrá agregar una nueva evaluación.
+También desde el listado podrá agregar una nueva evaluación.
 
-**Ver**: Podrá tener una vista previa del archivo adjunto, tambien si desea podrá descargarlo.
+**Ver**: Podrá tener una vista previa del archivo adjunto, también si desea podrá descargarlo.
 
 <div align="center">
 
-![ver](/img/img_manual/img_salud_ocupacional/2023-09-14_11-17.png)
+![Ver](/img/img_manual/img_salud_ocupacional/2023-09-14_11-17.png)
 
 </div>
 
 ### ¿Cómo agregar medidas de control al protocolo?
 
-para ingresar una medida de control debe dirigirse a:
+Para ingresar una medida de control debe dirigirse a:
 
 <div align="center">
 
@@ -414,9 +413,9 @@ para ingresar una medida de control debe dirigirse a:
 
 </div>
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/pE4lbK_PW2s?si=2RFGYjHfzQaj0pSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/pE4lbK_PW2s/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -437,7 +436,7 @@ el sistema cargará el siguiente formulario:
 
 </div>
 
-Podrá tambien agregar mas tareas, al finalizar el registro podrá visualizar presionando el siguiente botón:
+Podrá también agregar más tareas, al finalizar el registro podrá visualizar presionando el siguiente botón:
 
 <div align="center">
 
@@ -459,15 +458,15 @@ Podrá tambien agregar mas tareas, al finalizar el registro podrá visualizar pr
 
 </div>
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/9XtIr-fGc0k?si=xBV09MG4aT6p-V1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/9XtIr-fGc0k/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
 ### ¿Cómo agregar un control de audiometría al protocolo?
 
-para ingresar uno debe dirigirse a:
+Para ingresar uno debe dirigirse a:
 
 <div align="center">
 
@@ -475,17 +474,17 @@ para ingresar uno debe dirigirse a:
 
 </div>
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/dvJVY4V1UsU?si=6XmuIj9pH1hCd4mJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/dvJVY4V1UsU/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
-debe presionar el siguiente botón.
+Debe presionar el siguiente botón.
 
 <div align="center">
 
-![agregar](/img/img_manual/img_salud_ocupacional/2023-09-14_12-14.png)
+![Agregar](/img/img_manual/img_salud_ocupacional/2023-09-14_12-14.png)
 
 </div>
 
@@ -497,9 +496,9 @@ el sistema cargará el siguiente formulario:
 
 </div>
 
-para que aparezca más información deberá seleccionar el grupo de exposición.
+Para que aparezca más información deberá seleccionar el grupo de exposición.
 
-al finalizar el registro podrá visualizarlo presionando el siguiente botón:
+Al finalizar el registro podrá visualizarlo presionando el siguiente botón:
 
 <div align="center">
 
@@ -513,13 +512,13 @@ al finalizar el registro podrá visualizarlo presionando el siguiente botón:
 
 </div>
 
-desde el listado tambien podrá agregar un control de audiometría.
+Desde el listado también podrá agregar un control de audiometría.
 
-**Ver**: Podrá tener una vista previa del archivo adjunto, tambien si desea podrá descargarlo.
+**Ver**: Podrá tener una vista previa del archivo adjunto, también si desea podrá descargarlo.
 
-### ¿Cómo agregar una auditoria al protocolo prexor?
+### ¿Cómo agregar una auditoria al protocolo Prexor?
 
-para ingresar una auditoria debe dirigirse a:
+Para ingresar una auditoria debe dirigirse a:
 
 <div align="center">
 
@@ -527,9 +526,9 @@ para ingresar una auditoria debe dirigirse a:
 
 </div>
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/mr1sE4oa0AU?si=mh8VUiOWWuaVhK_K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/mr1sE4oa0AU/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -541,7 +540,7 @@ debe presionar el siguiente botón:
 
 </div>
 
-El sistema cargará un listado de auditorias disponibles tipo específica a categoria prexor:
+El sistema cargará un listado de auditorias disponibles tipo específica a categoría Prexor:
 
 <div align="center">
 
@@ -549,7 +548,7 @@ El sistema cargará un listado de auditorias disponibles tipo específica a cate
 
 </div>
  
-* **Descargar pdf**: Podrá descargar la auditoria en PDF.
+* **Descargar PDF**: Podrá descargar la auditoria en PDF.
 
 * **Aplicar**: Podrá aplicar la auditoria si lo requiere.
 
@@ -573,9 +572,9 @@ Para poder visualizar la auditoria registrada deberá presionar el siguiente bot
 
 i. **asignación de tareas**: Podrá visualizar el estado de la tarea generada presionando el botón **ver** para luego poder cambiar el estado de la tarea al que requiera.
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/_ZfxO847zfI?si=5GMJrgQkwyUofQJq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/_ZfxO847zfI/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -584,9 +583,9 @@ i. **asignación de tareas**: Podrá visualizar el estado de la tarea generada p
 
 * **mail**: Podrá enviar el resultado de la auditoria por email.
 
-### ¿Cómo agregar documentación al protocolo prexor?
+### ¿Cómo agregar documentación al protocolo Prexor?
 
-para ingresar documentación debe dirigirse a: 
+Para ingresar documentación debe dirigirse a: 
 
 <div align="center">
 
@@ -594,9 +593,9 @@ para ingresar documentación debe dirigirse a:
 
 </div>
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/8yIh0dQPBf4?si=-WUAxHb20Hj5Y4cI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/8yIh0dQPBf4/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -616,7 +615,7 @@ Deberá completar el formulario con los datos requeridos y al finalizar presione
 
 </div>
 
-Tambien desde el listado podra agregar más doumentación si desea.
+También desde el listado podrá agregar más documentación si desea.
 
 * **Editar**: Si desea editar el registro debe presionar el siguiente botón:
 
@@ -626,15 +625,14 @@ Tambien desde el listado podra agregar más doumentación si desea.
 
 </div>
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/b6TBtLdNgtc?si=PQh3Ti-yQ0UgPjxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/b6TBtLdNgtc/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
 
-
-* **PDF**: Podrá visualizar o descargar un resumen del registro en documento PDF,presionando el siguiente botón:
+* **PDF**: Podrá visualizar o descargar un resumen del registro en documento PDF, presionando el siguiente botón:
 
 <div align="center">
 
@@ -642,7 +640,7 @@ Tambien desde el listado podra agregar más doumentación si desea.
 
 </div>
 
-* **Archivo adjunto**: Podra visualizar o descargar el archivo adjunto al registro, presionando el siguiente botón:
+* **Archivo adjunto**: Podrá visualizar o descargar el archivo adjunto al registro, presionando el siguiente botón:
 
 <div align="center">
 
@@ -650,9 +648,9 @@ Tambien desde el listado podra agregar más doumentación si desea.
 
 </div>
 
-### ¿Cómo cambiar estado de tareas generadas en protocolo prexor?
+### ¿Cómo cambiar estado de tareas generadas en protocolo Prexor?
 
-para cambiar el estado de tareas o visualizar su cumplimiento debe dirigirse a: 
+Para cambiar el estado de tareas o visualizar su cumplimiento debe dirigirse a: 
 
 <div align="center">
 
@@ -660,20 +658,8 @@ para cambiar el estado de tareas o visualizar su cumplimiento debe dirigirse a:
 
 </div>
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/z3mx9yEv7gU?si=bdvyVzLer9_uezE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/z3mx9yEv7gU/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-

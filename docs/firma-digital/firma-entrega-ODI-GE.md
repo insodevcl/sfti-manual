@@ -20,7 +20,7 @@ Al no encontrar el correo debemos dirigirnos a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Documentación → Trabajador → Entrega de obligación de informar (general)
+Menú SFTI Pro → Documentación → Trabajador → Entrega de obligación de informar (general)
 ```
 </div>
 
@@ -72,14 +72,14 @@ En el correo deberá presionar el botón **"Firmar documento"** que lo llevará 
 
 </div>
 
-En la casilla de rut rellenerá con la información solicitada que seria el rut de la persona a quien se lo entregaron.
+En la casilla de rut complete la información solicitada, rut de la persona a quien entrega.
 
 ### Código de verificación
 El sistema mostrará lo siguiente:
 
 <div align="center">
 
-![codigo](/img/img_manual/img_firma/2023-09-27_08-58.png)
+![código](/img/img_manual/img_firma/2023-09-27_08-58.png)
 
 </div>
 
@@ -92,7 +92,7 @@ Deberá revisar su correo para poder ingresar el código solicitado que se envia
 </div>
 
 ### Firmar documento
-Los códigos iran variando a medida de que se lo soliciten. Luego de ingresar el código la pagina mostrará lo siguiente:
+Los códigos irán variando a medida de que se lo soliciten. Luego de ingresar el código la pagina mostrará lo siguiente:
 
 <div align="center">
 
@@ -108,11 +108,11 @@ Se visualizará una vista previa del documento que requiere firmar, para firmarl
 
 </div>
 
-deberá volver a ingresar un código que se encuentra ya en su bandeja de correos. Luego de ingresar el código podrá visualizar el documento ya firmado presionando el botón de **"Documentos firmados"**. 
+Deberá volver a ingresar un código que se encuentra ya en su bandeja de correos. Luego de ingresar el código podrá visualizar el documento ya firmado presionando el botón de **"Documentos firmados"**. 
 
 <div align="center">
 
-![listado doc firmados](/img/img_manual/img_firma/2023-09-27_09-07.png)
+![Listado doc firmados](/img/img_manual/img_firma/2023-09-27_09-07.png)
 
 </div>
 

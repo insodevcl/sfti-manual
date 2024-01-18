@@ -10,7 +10,7 @@ Para ingresar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Gestión de calidad → Control de plagas
+Menú SFTI Pro → Gestión de calidad → Control de plagas
 ```
 </div>
 
@@ -22,7 +22,7 @@ El sistema mostrará una tabla con los registros de control de plagas:
 
 </div>
 
-* **Agregar**: Podrá agregar un nuevo registro de control de plagas, presionanado el siguiente botón:
+* **Agregar**: Podrá agregar un nuevo registro de control de plagas, presionando el siguiente botón:
 
 <div align="center">
 
@@ -30,9 +30,9 @@ El sistema mostrará una tabla con los registros de control de plagas:
 
 </div>
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width="800" height="384" src="https://www.youtube.com/embed/ZCTmxJNgKYA?si=UD3RWMaCz5ind4Cb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/ZCTmxJNgKYA/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -46,24 +46,18 @@ Al finalizar el registro el sistema te llevará al listado donde verás tu regis
 
 </div>
 
-<div align="center">
+<div class="video-responsive">
 
-<iframe width=" 800" height="384" src="https://www.youtube.com/embed/qqCO3pqESqs?si=GWAwa-wXb6pmGHPM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/qqCO3pqESqs/?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 </div>
 
 
-
-* **Ver**: Podrá descargar el registro en documento pdf, presionando el siguiente botón:
+* **Ver**: Podrá descargar el registro en documento PDF, presionando el siguiente botón:
 
 <div align="center">
 
 ![ver](/img/img_manual/img_gestion_calidad/2023-09-20_17-11.png)
 
 </div>
-
-
-
-
-

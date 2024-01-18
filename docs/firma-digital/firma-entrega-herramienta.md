@@ -12,7 +12,7 @@ Al no encontrar el correo debemos dirigirnos a:
 <div align="center">
 
 ```bash
-Menú SafeTI → HEMTIE → Herramientas → Listado
+Menú SFTI Pro → HEMTIE → Herramientas → Listado
 ```
 </div>
 
@@ -81,14 +81,14 @@ En el correo deberá presionar el botón **"Firmar documento"** que lo llevará 
 
 </div>
 
-En la casilla de rut rellenerá con la información solicitada que seria el rut de la persona a quien se lo entregaron.
+En la casilla de rut complete la información solicitada, rut de la persona a quien entrega.
 
 ### Código de verificación
 El sistema mostrará lo siguiente:
 
 <div align="center">
 
-![codigo](/img/img_manual/img_firma/2023-09-27_08-58.png)
+![código](/img/img_manual/img_firma/2023-09-27_08-58.png)
 
 </div>
 
@@ -96,12 +96,12 @@ Deberá revisar su correo para poder ingresar el código solicitado que se envia
 
 <div align="center">
 
-![correo codigo](/img/img_manual/img_firma/2023-09-28_09-47.png)
+![correo código](/img/img_manual/img_firma/2023-09-28_09-47.png)
 
 </div>
 
 ### Firmar documento
-Los códigos iran variando a medida de que se lo soliciten. Luego de ingresar el código la pagina mostrará lo siguiente:
+Los códigos irán variando a medida de que se lo soliciten. Luego de ingresar el código la pagina mostrará lo siguiente:
 
 <div align="center">
 
@@ -117,11 +117,11 @@ Se visualizará una vista previa del documento que requiere firmar, para firmarl
 
 </div>
 
-deberá volver a ingresar un código que se encuentra ya en su bandeja de correos. Luego de ingresar el código podrá visualizar el documento ya firmado presionando el botón de **"Documentos firmados"**. 
+Deberá volver a ingresar un código que se encuentra ya en su bandeja de correos. Luego de ingresar el código podrá visualizar el documento ya firmado presionando el botón de **"Documentos firmados"**. 
 
 <div align="center">
 
-![listado doc firmados](/img/img_manual/img_firma/2023-09-28_09-53.png)
+![Listado doc firmados](/img/img_manual/img_firma/2023-09-28_09-53.png)
 
 </div>
 
@@ -133,7 +133,7 @@ Para visualizar el documento ya firmado debe presionar el siguiente botón:
 
 </div>
 
-Podrá tener una vista previa del documento en pdf:
+Podrá tener una vista previa del documento en PDF:
 
 <div align="center">
 
@@ -141,7 +141,7 @@ Podrá tener una vista previa del documento en pdf:
 
 </div>
 
-Despues de todo el proceso le llegará una notificación al correo donde podrá visualizar el documento firmado por todos los integrantes y el documento adjunto.
+Después de todo el proceso le llegará una notificación al correo donde podrá visualizar el documento firmado por todos los integrantes y el documento adjunto.
 
 Para finalizar deberá presionar el botón **"Cerrar sesión"**.
 
@@ -161,6 +161,3 @@ Podrá descargar el documento ya firmado presionando el siguiente botón que est
 ![estado](/img/img_manual/img_firma/2023-09-28_09-58.png)
 
 </div>
-
-
-

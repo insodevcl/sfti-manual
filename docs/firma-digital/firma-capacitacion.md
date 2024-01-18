@@ -10,7 +10,7 @@ Para saber si necesitamos firmar aún nuestra capacitación nos dirigiremos a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Documentación → Empresa → Registro de capacitaciones
+Menú SFTI Pro → Documentación → Empresa → Registro de capacitaciones
 ```
 </div>
 
@@ -54,13 +54,13 @@ En el correo deberá presionar el botón **"Firmar documento"** que lo llevará 
 
 </div>
 
-En la casilla de rut rellenará con la información solicitada que seria el rut de la persona a quien se lo entregaron.
+En la casilla de rut complete la información solicitada, rut de la persona a quien entrega.
 
 El sistema mostrará lo siguiente:
 
 <div align="center">
 
-![codigo de verifiación](/img/img_manual/img_firma/2023-09-26_09-09.png)
+![código de verificación](/img/img_manual/img_firma/2023-09-26_09-09.png)
 
 </div>
 
@@ -70,11 +70,11 @@ Deberá revisar su correo para poder ingresar el código solicitado que se envia
 
 <div align="center">
 
-![correo codigo](/img/img_manual/img_firma/2023-09-26_09-10.png)
+![correo código](/img/img_manual/img_firma/2023-09-26_09-10.png)
 
 </div>
 
-Los códigos iran variando a medida de que se lo soliciten. Luego de ingresar el código la pagina mostrará lo siguiente:
+Los códigos irán variando a medida de que se lo soliciten. Luego de ingresar el código la pagina mostrará lo siguiente:
 
 <div align="center">
 
@@ -82,7 +82,7 @@ Los códigos iran variando a medida de que se lo soliciten. Luego de ingresar el
 
 </div>
 
-Podrá visualizar todos los documentos pendientes de su firma, donde si desea firmar mas de 1 documento tendrá que ir haciendo clic en las casillas a la derecha y para finalizar presionar el siguiente botón:
+Podrá visualizar todos los documentos pendientes de su firma, donde si desea firmar más de 1 documento tendrá que ir haciendo clic en las casillas a la derecha y para finalizar presionar el siguiente botón:
 
 <div align="center">
 
@@ -107,7 +107,7 @@ Debemos volver a nuestro correo para copiar el código, luego de ingresar el có
 
 </div>
 
-Tambien podremos visualizar todos los documentos firmados presionando el siguiente botón:
+También podremos visualizar todos los documentos firmados presionando el siguiente botón:
 
 <div align="center">
 
