@@ -6,7 +6,7 @@ description: Listado de código, version, fecha de actualización, URL y descrip
 # Listado de documentos
 
 :::info Información
-Esta información fue actualizada para la versión 1.97.2 de la plataforma SFTI Pro.
+Esta información fue actualizada el dia (20/06/2024) para la versión 1.97.2 de la plataforma SFTI Pro.
 :::
 
 ## Listado de documentos
@@ -35,7 +35,7 @@ A continuación se presenta un listado de los documentos que son generados por l
 |CPHS-REUN|1,2|2024-06-01|/comiteparitario/reunion/pdf/|Sin descripción|
 |CBIPA|1,0|2023-01-01|/comitebipartito/pdf/|Sin descripción|
 |CBIPA-REUN|1,1|2024-06-01|/comitebipartito/reunion/pdf/|Sin descripción|
-|EPP|1,0|2023-01-01|/epp/entrega/pdf/|Sin descripción|
+|EPP-ENTRE|1,0|2024-02-01|/epp/entrega/pdf/|Sin descripción|
 |IPER-HIST|1,0|2023-01-01|/iper/historial/pdf/|Sin descripción|
 |IPER-MATR|1,0|2023-01-01|/iper/matriz/pdf/|Sin descripción|
 |INSP-SEGU|1,0|2023-01-01|/inspeccion/seguridad/matriz/pdf/|Sin descripción|
@@ -82,11 +82,9 @@ A continuación se presenta un listado de los documentos que son generados por l
 |REGIS-CAP-PLAN|1,0|2023-01-01|/registro/capacitacion/pdf/plantilla/|Sin descripción|
 |REGIS-MICRO|1,0|2023-05-01|/registro/microbiologico/pdf/|Sin descripción|
 |CTRL-PLAGA|1,0|2023-06-01|/control/plaga/pdf/|Sin descripción|
-|EPP-ENTRE|1,0|2024-02-01|/epp/entrega/pdf/|Sin descripción|
 |FORM-PER|1,0|2024-04-01|/planilla/personalizada/aplicacion/pdf/|Sin descripción|
 |ODI-GEN-EVA|1,0|2024-05-01|/derechoasaber/general/evaluacion/pdf/|Sin descripción|
 |ODI-GEN-EVA-RESUL|1,0|2024-05-01|/derechoasaber/general/evaluacion/aplica/pdf/|Sin descripción|
 |ODI-ESP-EVA|1,0|2024-05-01|/derechoasaber/especifico/evaluacion/pdf/|Sin descripción|
 |ODI-ESP-EVA-RESUL|1,0|2024-05-01|/derechoasaber/especifico/evaluacion/aplica/pdf/|Sin descripción|
 |AST|1,0|2024-06-01|/ast/registro/pdf/|Sin descripción|
-|--|--|--|--|--|
