@@ -1,17 +1,15 @@
 ---
 position: 20
-label: Versionado de documentos
-sidebar: auto
 description: Listado de código, version, fecha de actualización, URL y descripción de los documentos en formato PDF que son generados por la plataforma SFTI.
 ---
 
-# Listado de documentos
+# Versionado de documentos
 
 :::info Información
 Esta información fue actualizada el dia (20/06/2024) para la versión 1.97.2 de la plataforma SFTI Pro.
 :::
 
-## Listado de documentos
+## Listado de documentos y su respectiva versión
 
 A continuación se presenta un listado de los documentos que son generados por la plataforma SFTI Pro en formato PDF:
 
