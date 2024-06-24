@@ -1,4 +1,6 @@
 ---
+position: 20
+label: Versionado de documentos
 sidebar: auto
 description: Listado de código, version, fecha de actualización, URL y descripción de los documentos en formato PDF que son generados por la plataforma SFTI.
 ---
