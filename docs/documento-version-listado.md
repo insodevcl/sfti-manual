@@ -1,6 +1,6 @@
 ---
-position: 20
-description: Listado de código, version, fecha de actualización, URL y descripción de los documentos en formato PDF que son generados por la plataforma SFTI.
+sidebar_position: 20
+custom_edit_url: null
 ---
 
 # Versionado de documentos
