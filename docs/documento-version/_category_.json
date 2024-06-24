@@ -1,0 +1,14 @@
+{
+    "position": 20,
+    "label": "Versionado de documentos",
+    "collapsible": true,
+    "collapsed": false,
+    "className": "red",
+    "link": {
+      "type": "generated-index",
+      "title": "Versionado de documentos"
+    },
+    "customProps": {
+      "description": "Listado de código, version y fecha de actualización de los documentos en formato PDF que son generados por la plataforma SFTI."
+    }
+  }
