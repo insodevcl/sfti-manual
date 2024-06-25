@@ -17,7 +17,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build --cname manual.safeti.cl",
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "docusaurus build",
