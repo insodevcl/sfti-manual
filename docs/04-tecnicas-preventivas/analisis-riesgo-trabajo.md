@@ -9,7 +9,7 @@ Para ingresar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Técnicas preventivas → Análisis de riesgos del trabajo
+Menú SFTI → Técnicas preventivas → Análisis de riesgos del trabajo
 ```
 </div>
  

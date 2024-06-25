@@ -3,7 +3,7 @@ sidebar_position: 1
 custom_edit_url: null
 ---
 # Listado Permisos de Trabajo
-En **SFTI Pro** puede generar un permiso de trabajo a un colaborador o contratista, asignarle subárea, lugar, hora de inicio y termino, podrá también individualizar los trabajos a realizar. Puede tomar registro de los elementos que necesitarán para poder desarrollar el trabajo, como los elementos de protección personal, las herramientas, los equipo, las maquinarias, el transporte y la instalación. Cree un plan de acción, asignando medidas de control con supervisor y responsable.
+En módulo usted puede generar un permiso de trabajo para un colaborador o trabajador contratista, asignarle subárea, lugar, hora de inicio y termino, podrá también individualizar los trabajos a realizar. Puede tomar registro de los elementos que necesitarán para poder desarrollar el trabajo, como los elementos de protección personal, las herramientas, los equipo, las maquinarias, el transporte y la instalación. Cree un plan de acción, asignando medidas de control con supervisor y responsable.
 
 ## Generar un permiso de trabajo
 Para generar una solicitud de permiso de trabajo, debe dirigirse a:
@@ -11,7 +11,7 @@ Para generar una solicitud de permiso de trabajo, debe dirigirse a:
 <div align="center">
 
 ```bash
- Menú SFTI Pro → Permisos de Trabajo → Listado
+ Menú SFTI → Permisos de Trabajo → Listado
 ```
 </div>
 
@@ -74,6 +74,6 @@ Puede notificar al personal de su empresa, seleccionándolo en la lista desplega
 
 Para finalizar la solicitud de trabajo debe hacer clic en el botón **“Continuar”**.
 
-Las tareas generadas, podrán ser seguidas desde el administrador de tareas de SFTI Pro.
+Las tareas generadas, podrán ser seguidas desde el administrador de tareas de SFTI.
 
 Para ver el documento generado del permiso de trabajo debe presionar el botón que se encuentra en la casilla de acción, donde podrá descargar el documento para luego firmarlo por sus respectivos y cargarlo a la plataforma ya firmado.

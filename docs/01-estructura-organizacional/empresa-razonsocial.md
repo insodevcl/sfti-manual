@@ -2,7 +2,7 @@
 sidebar_position: 1
 custom_edit_url: null
 ---
-# Empresa / Razón Social
+# Empresa
 ## Ingresar o editar información de la empresa
 
 En el submenú "Empresa" dentro del Módulo "Estructura Organizacional", se puede visualizar la información de la Empresa como el nombre, RUT, e-mail, Número de adherentes, entre otros.

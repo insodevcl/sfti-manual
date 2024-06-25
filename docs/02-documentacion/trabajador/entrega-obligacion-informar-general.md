@@ -9,7 +9,7 @@ Para ingresar una debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Documentación → Trabajador → Entrega de obligación de informar (general)
+Menú SFTI → Documentación → Trabajador → Entrega de obligación de informar (general)
 ```
 </div>
 

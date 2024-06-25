@@ -2,7 +2,7 @@
 sidebar_position: 3
 custom_edit_url: null
 ---
-# Obligación de Informar (Específica)
+# Obligación de informar (específico)
 ## ¿Qué es una ODI?
 
 Una ODI tiene relación con el vínculo entre el empleador y los trabajadores, en el sentido de la existencia de un canal de comunicación efectivo que permita a los segundos saber sobre los riesgos que estén implicados en su rutina  laboral. Al ser una ODI específica esta va a ser especial a un grupo de trabajadores.
@@ -13,7 +13,7 @@ Para ingresar un ODI específico debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Documentación → Empresa → Obligación de informar (específico)
+Menú SFTI → Documentación → Empresa → Obligación de informar (específico)
 ```
 </div>
 

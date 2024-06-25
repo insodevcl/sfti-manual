@@ -20,7 +20,7 @@ Al no encontrar el correo debemos dirigirnos a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Documentación → Trabajador → Entrega de obligación de informar (general)
+Menú SFTI → Documentación → Trabajador → Entrega de obligación de informar (general)
 ```
 </div>
 

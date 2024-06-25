@@ -10,7 +10,7 @@ Para ingresar un contratista debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Estructura Organizacional → Contratista
+Menú SFTI → Estructura Organizacional → Contratista
 ```
 </div>
 

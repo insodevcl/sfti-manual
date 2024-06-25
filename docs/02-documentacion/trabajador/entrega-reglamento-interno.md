@@ -9,7 +9,7 @@ Para ingresar una entrega de reglamento interno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Documentación → Trabajador → Entrega de reglamento interno
+Menú SFTI → Documentación → Trabajador → Entrega de reglamento interno
 ```
 </div>
 

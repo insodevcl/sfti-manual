@@ -11,7 +11,7 @@ Para listar los tipos de equipo o poder ingresar un nuevo tipo de transporte deb
 <div align="center">
 
 ```bash
-Menú SFTI Pro → HEMTIE → Transportes → Tipos
+Menú SFTI → HEMTIE → Transportes → Tipos
 ```
 </div>
 

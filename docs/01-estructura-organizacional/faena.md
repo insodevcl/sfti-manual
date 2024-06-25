@@ -9,7 +9,7 @@ Para ingresar una faena debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Estructura Organizacional → Faena
+Menú SFTI → Estructura Organizacional → Faena
 ```
 </div>
 

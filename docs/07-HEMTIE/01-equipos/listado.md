@@ -8,7 +8,7 @@ Para ingresar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → HEMTIE → Equipos → Listado
+Menú SFTI → HEMTIE → Equipos → Listado
 ```
 </div>
 

@@ -9,7 +9,7 @@ Para ingresar una debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → HEMTIE → Instalaciones → Listado
+Menú SFTI → HEMTIE → Instalaciones → Listado
 ```
 </div>
 

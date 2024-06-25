@@ -9,7 +9,7 @@ Para ingresar un reglamento interno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Documentación → Empresa → Reglamento interno
+Menú SFTI → Documentación → Empresa → Reglamento interno
 ```
 </div>
 

@@ -9,7 +9,7 @@ Para agregar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → HEMTIE → Herramientas → Tipos
+Menú SFTI → HEMTIE → Herramientas → Tipos
 ```
 </div>
 

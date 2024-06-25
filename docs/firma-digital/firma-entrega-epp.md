@@ -12,7 +12,7 @@ Al no encontrar el correo debemos dirigirnos a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Documentación → Trabajador → Elementos de protección personal
+Menú SFTI → Documentación → Trabajador → Elementos de protección personal
 ```
 </div>
 

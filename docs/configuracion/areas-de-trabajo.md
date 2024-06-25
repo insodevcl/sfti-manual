@@ -6,7 +6,7 @@ custom_edit_url: null
 # Áreas de trabajo
 
 :::info Información 
-Para realizar esta acción en la plataforma de SFTI Pro, usted debe tener un perfil de **Administrador**.
+Para realizar esta acción en la plataforma de SFTI, usted debe tener un perfil de **Administrador**.
 :::
 
 ## ¿Cómo agregar una nueva área de trabajo? 
@@ -15,7 +15,7 @@ Para agregar una nueva área de trabajo debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Ícono de usuario → Configuración de empresa → Áreas de trabajo
+Menú SFTI → Ícono de usuario → Configuración de empresa → Áreas de trabajo
 ```
 </div>
 

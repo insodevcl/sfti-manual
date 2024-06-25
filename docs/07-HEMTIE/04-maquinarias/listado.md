@@ -9,7 +9,7 @@ Para ingresar una debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → HEMTIE → Maquinarias → Listado
+Menú SFTI → HEMTIE → Maquinarias → Listado
 ```
 </div>
 

@@ -21,7 +21,7 @@ Permite también asociar cada uno de estos elementos a un centro de costo, subá
 <div align="center">
 
 ```bash
-Menú SFTI Pro → HEMTIE → Equipos de emergencia
+Menú SFTI → HEMTIE → Equipos de emergencia
 ```
 </div>
 

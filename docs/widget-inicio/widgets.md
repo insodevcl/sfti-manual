@@ -9,7 +9,7 @@ Para agregar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Ícono de usuario → Widgets
+Menú SFTI → Ícono de usuario → Widgets
 ```
 </div>
 

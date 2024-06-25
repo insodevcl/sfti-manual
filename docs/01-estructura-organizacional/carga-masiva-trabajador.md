@@ -2,7 +2,7 @@
 sidebar_position: 6
 custom_edit_url: null
 ---
-# Instrucciones Carga Masiva Trabajadores
+# Instructivo para carga masiva de trabajadores de empresa
 ## Introducción
 
 El sistema de carga masiva de trabajadores tiene como finalidad facilitar la carga de una lista de trabajadores con datos básicos.
@@ -14,7 +14,7 @@ Para realizar una carga masiva de Trabajadores debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Estructura Organizacional → Trabajador
+Menú SFTI → Estructura Organizacional → Trabajador
 ```
 </div>
 

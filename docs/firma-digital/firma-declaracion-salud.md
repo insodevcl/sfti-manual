@@ -12,7 +12,7 @@ Al no encontrar el correo debemos dirigirnos a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Estructura Organizacional → Trabajador
+Menú SFTI → Estructura Organizacional → Trabajador
 ```
 </div>
 

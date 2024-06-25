@@ -13,7 +13,7 @@ Para agregar una nueva auditoria tiene que dirigirse a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Auditoría → Listado
+Menú SFTI → Auditoría → Listado
 ```
 </div>
 

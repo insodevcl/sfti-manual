@@ -9,7 +9,7 @@ Para ingresar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Comités → Faena
+Menú SFTI → Comités → Faena
 ```
 </div>
 

@@ -2,9 +2,9 @@
 sidebar_position: 2
 custom_edit_url: null
 ---
-# Carpetas Contratistas
+# Carpetas para contratistas
 ## Introducción a las carpetas contratistas
-Todos los contratistas, subcontratistas, empresas de servicios transitorios y/o persona natural que realicen trabajos en su empresa, deben presentar los siguientes datos básicos para crear el acceso a la plataforma SafeTI, donde con su usuario asignado se gestionará toda la documentación que se solicita normalmente para iniciar labores.
+Todos los contratistas, subcontratistas, empresas de servicios transitorios y/o persona natural que realicen trabajos en su empresa, deben presentar los siguientes datos básicos para crear el acceso a la plataforma SFTI, donde con su usuario asignado se gestionará toda la documentación que se solicita normalmente para iniciar labores.
 
 * Nombre (empresa o persona natural).
 * Rut (registro único tributario o run al ser persona natural).
@@ -22,7 +22,7 @@ Todos los contratistas, subcontratistas, empresas de servicios transitorios y/o 
 Esta información se deberá ser enviada a la empresa mandante.
 
 ## Configuración de carpetas contratistas
-Durante la implementación de SafeTI se deben configurar las carpetas de contratistas, estas carpetas tiene 3 categorías:
+Durante la implementación de SFTI se deben configurar las carpetas de contratistas, estas carpetas tiene 3 categorías:
 * Carpetas de empresa
 * Carpetas de trabajador
 * Carpetas de transporte
@@ -38,7 +38,7 @@ Debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Estructura Organizacional → Contratista
+Menú SFTI → Estructura Organizacional → Contratista
 ```
 </div>
 
@@ -128,7 +128,7 @@ Para aprobar o rechazar los documentos cargados debemos dirigirnos al listado de
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Estructura Organizacional → Contratista
+Menú SFTI → Estructura Organizacional → Contratista
 ```
 </div>
 

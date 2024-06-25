@@ -9,7 +9,7 @@ Para ingresar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Técnicas preventivas → Gestión de incidentes → Procedimiento de investigación de cuasiaccidentes
+Menú SFTI → Técnicas preventivas → Gestión de incidentes → Procedimiento de investigación de cuasiaccidentes
 ```
 </div>
  

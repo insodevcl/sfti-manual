@@ -5,7 +5,7 @@ custom_edit_url: null
 # Centros de costo
 
 :::info Información 
-Para realizar esta acción en la plataforma de SFTI Pro, usted debe tener un perfil de **Administrador**.
+Para realizar esta acción en la plataforma de SFTI, usted debe tener un perfil de **Administrador**.
 :::
 
 ## ¿Cómo agregar un centro de costo?
@@ -14,7 +14,7 @@ Para ingresar un centro de costo debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Ícono de usuario → configuración de empresa → Centros de costo
+Menú SFTI → Ícono de usuario → configuración de empresa → Centros de costo
 ```
 </div>
 

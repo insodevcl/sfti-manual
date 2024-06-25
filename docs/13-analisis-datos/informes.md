@@ -9,7 +9,7 @@ Para obtener uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Análisis de datos → Informes
+Menú SFTI → Análisis de datos → Informes
 ```
 </div>
 

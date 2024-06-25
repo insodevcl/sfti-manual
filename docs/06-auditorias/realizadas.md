@@ -3,12 +3,12 @@ sidebar_position: 3
 custom_edit_url: null
 ---
 # Realizadas
-Cada una de las auditorias aplicadas son procesadas y guardas en la base de datos de **SafeTI**, estas podrán ser consultadas en la plataforma, dirigiendose a:
+Cada una de las auditorias aplicadas son procesadas y guardas en la base de datos de SFTI, estas podrán ser consultadas en la plataforma, dirigiéndose a:
 
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Auditorías → Realizadas
+Menú SFTI → Auditorías → Realizadas
 ```
 </div>
 

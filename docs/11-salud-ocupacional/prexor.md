@@ -8,7 +8,7 @@ Para ingresar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Salud ocupacional → Protocolos de vigilancia
+Menú SFTI → Salud ocupacional → Protocolos de vigilancia
 ```
 </div>
 

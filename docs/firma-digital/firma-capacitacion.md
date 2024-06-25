@@ -10,7 +10,7 @@ Para saber si necesitamos firmar aún nuestra capacitación nos dirigiremos a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Documentación → Empresa → Registro de capacitaciones
+Menú SFTI → Documentación → Empresa → Registro de capacitaciones
 ```
 </div>
 

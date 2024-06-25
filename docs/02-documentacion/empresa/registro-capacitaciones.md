@@ -9,7 +9,7 @@ Para ingresar una capacitación debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Documentación → Empresa → Registro de capacitaciones
+Menú SFTI → Documentación → Empresa → Registro de capacitaciones
 ```
 </div>
 
@@ -79,7 +79,7 @@ Para ingresar una debemos dirigirnos a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Documentación → Empresa → Registro de capacitaciones
+Menú SFTI → Documentación → Empresa → Registro de capacitaciones
 ```
 </div>
 
@@ -110,7 +110,7 @@ Al finalizar el registro verá la acreditación del documento en el botón PDF, 
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Estructura Organizacional → Trabajador
+Menú SFTI → Estructura Organizacional → Trabajador
 ```
 </div>
 

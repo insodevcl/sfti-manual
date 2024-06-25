@@ -11,7 +11,7 @@ Para listar los tipos de equipo o poder ingresar un nuevo tipo de equipo debe di
 <div align="center">
 
 ```bash
-Menú SFTI Pro → HEMTIE → Equipos → Tipos
+Menú SFTI → HEMTIE → Equipos → Tipos
 ```
 </div>
 

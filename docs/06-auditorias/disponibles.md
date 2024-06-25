@@ -4,9 +4,9 @@ custom_edit_url: null
 ---
 # Disponibles
 
-Las auditorias de su empresa pueden digitalizarse en **SFTI Pro**, las cuales podrán ser aplicadas directamente desde la plataforma.
+Las auditorias de su empresa pueden digitalizarse en SFTI, las cuales podrán ser aplicadas directamente desde la plataforma.
 
-Las auditorias se ingresan a **SFTI Pro** durante el proceso de implementación, estas pueden ser **“Generales”** o **“Específicas”**.
+Las auditorias se ingresan a SFTI durante el proceso de implementación, estas pueden ser **“Generales”** o **“Específicas”**.
 
 Las auditorias tienen **“tipos”** y **“categorías”**:
 
@@ -44,7 +44,7 @@ Para poder aplicar una auditoria, debe dirigirse al menú:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Auditorías → Auditorías Disponibles
+Menú SFTI → Auditorías → Auditorías Disponibles
 ```
 </div>
 
@@ -104,7 +104,7 @@ Para los **“No”** deberá asignar para cada una de las tareas un **“Superv
 
 </div>
 
-Para terminar la auditoria debe hacer clic en el botón **“Guardar”**, SFTI Pro procesara la auditoria y presentara los resultados de esta.
+Para terminar la auditoria debe hacer clic en el botón **“Guardar”**, SFTI procesara la auditoria y presentara los resultados de esta.
 
 <div align="center">
 

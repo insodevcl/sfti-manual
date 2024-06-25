@@ -3,7 +3,7 @@ sidebar_position: 1
 custom_edit_url: null
 ---
 # Listado Programas de Trabajo
-Aquí construye su programa de trabajo, SFTI Pro le ayuda a construir su matriz de trabajo.
+Aquí construye su programa de trabajo, SFTI le ayuda a construir su matriz de trabajo.
 
 * ¿Qué se entiende por "Programa de Trabajo"?
 * ¿Cómo crear un programa de trabajo?
@@ -25,7 +25,7 @@ En el Menú **"Programa de Trabajo"** debe seleccionar la opción "Listado":
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Programa de Trabajo → Listado
+Menú SFTI → Programa de Trabajo → Listado
 ```
 </div>
 
@@ -139,7 +139,7 @@ Se entiende por frecuencia, al periodo de tiempo definido por el usuario que cre
 
 ## ¿Qué significa que el programa esté en estado "En construcción"?
 
-Un programa de trabajo se entiende que no puede ser acordado y terminado en una sola jornada, debido a que son variadas las actividades con diferentes responsables que deben ser organizadas. Es por esto que SafeTI, permite que usted trabaje su programa libremente. Una vez revisado y validado, usted podrá seleccionar la opción procesar, que automáticamente activará los sistemas de alertas de la plataforma, teniendo siempre la precaución de no procesar su programa, hasta que esté seguro de que cumple con sus requisitos.
+Un programa de trabajo se entiende que no puede ser acordado y terminado en una sola jornada, debido a que son variadas las actividades con diferentes responsables que deben ser organizadas. Es por esto que SFTI, permite que usted trabaje su programa libremente. Una vez revisado y validado, usted podrá seleccionar la opción procesar, que automáticamente activará los sistemas de alertas de la plataforma, teniendo siempre la precaución de no procesar su programa, hasta que esté seguro de que cumple con sus requisitos.
 
 ## ¿Qué significa que el programa esté en estado "Terminado"?
 

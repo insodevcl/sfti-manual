@@ -9,7 +9,7 @@ Para ingresar un registro de documento debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Documentación → Empresa → Registro de documentos
+Menú SFTI → Documentación → Empresa → Registro de documentos
 ```
 </div>
 

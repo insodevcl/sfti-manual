@@ -9,7 +9,7 @@ Para ingresar una debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Técnicas preventivas → Observación de seguridad
+Menú SFTI → Técnicas preventivas → Observación de seguridad
 ```
 </div>
 

@@ -1,17 +1,18 @@
 ---
-sidebar_position: 20
+sidebar_position: 101
 custom_edit_url: null
+slug: /versionado-de-documentos
 ---
 
 # Versionado de documentos
 
 :::info Información
-Esta información fue actualizada el dia (20/06/2024) para la versión 1.97.2 de la plataforma SFTI Pro.
+Esta información fue actualizada el dia 20/06/2024 para la versión 1.97.2 de la plataforma SFTI.
 :::
 
-## Listado de documentos y su respectiva versión
+## Listado de documentos generados por SFTI en formato PDF
 
-A continuación se presenta un listado de los documentos que son generados por la plataforma SFTI Pro en formato PDF:
+A continuación se presenta un listado de los documentos y sus respectivos códigos, versión, fecha de actualización, URL y descripción:
 
 | Código | Versión | Fecha de actualización | URL | Descripción |
 | --- | --- | --- | --- | --- |

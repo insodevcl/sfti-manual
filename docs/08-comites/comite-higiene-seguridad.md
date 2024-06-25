@@ -21,7 +21,7 @@ Para poder crear un nuevo comité paritario debe ingresar al menú:
 <div align="center">
 
 ```bash
-Menú SafeTI → Comités → De higiene y seguridad → Listado
+Menú SFTI → Comités → De higiene y seguridad → Listado
 ```
 </div>
 

@@ -9,7 +9,7 @@ Para ingresar elementos debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SafeTI → Documentación → Trabajador → Elementos de protección personal
+Menú SFTI → Documentación → Trabajador → Elementos de protección personal
 ```
 </div>
 

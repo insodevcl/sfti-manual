@@ -12,7 +12,7 @@ Al no encontrar el correo debemos dirigirnos a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → HEMTIE → Herramientas → Listado
+Menú SFTI → HEMTIE → Herramientas → Listado
 ```
 </div>
 

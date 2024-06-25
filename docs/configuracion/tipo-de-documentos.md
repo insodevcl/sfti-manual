@@ -5,7 +5,7 @@ custom_edit_url: null
 # Tipo de documentos
 
 :::info Información 
-Para realizar esta acción en la plataforma de SFTI Pro, usted debe tener un perfil de **Administrador**.
+Para realizar esta acción en la plataforma de SFTI, usted debe tener un perfil de **Administrador**.
 :::
 
 ## ¿Cómo agregar un tipo de documento?
@@ -14,7 +14,7 @@ Para ingresar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Ícono de usuario → Configuración de empresa → Tipo de documentos
+Menú SFTI → Ícono de usuario → Configuración de empresa → Tipo de documentos
 ```
 </div>
 

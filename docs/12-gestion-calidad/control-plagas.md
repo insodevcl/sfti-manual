@@ -10,7 +10,7 @@ Para ingresar uno debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Gestión de calidad → Control de plagas
+Menú SFTI → Gestión de calidad → Control de plagas
 ```
 </div>
 

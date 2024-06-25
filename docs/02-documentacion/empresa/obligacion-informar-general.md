@@ -2,7 +2,7 @@
 sidebar_position: 2
 custom_edit_url: null
 ---
-# Obligación de Informar (General)
+# Obligación de informar (general)
 ## ¿Qué es una ODI?
 
 Una ODI tiene relación con el vínculo entre el empleador y los trabajadores, en el sentido de la existencia de un canal de comunicación efectivo que permita a los segundos saber sobre los riesgos que estén implicados en su rutina laboral.
@@ -13,7 +13,7 @@ Para ingresar un nuevo ODI debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Documentación → Empresa → Obligación de informar (general)
+Menú SFTI → Documentación → Empresa → Obligación de informar (general)
 ```
 </div>
 

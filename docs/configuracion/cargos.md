@@ -5,7 +5,7 @@ custom_edit_url: null
 # Cargos
 
 :::info Información 
-Para realizar esta acción en la plataforma de SFTI Pro, usted debe tener un perfil de **Administrador**.
+Para realizar esta acción en la plataforma de SFTI, usted debe tener un perfil de **Administrador**.
 :::
 
 ## ¿Cómo agregar un cargo?
@@ -14,7 +14,7 @@ Para ingresar un cargo de trabajadores debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Ícono de usuario → Configuración de empresa → Cargos
+Menú SFTI → Ícono de usuario → Configuración de empresa → Cargos
 ```
 </div>
 

@@ -13,7 +13,7 @@ Al no encontrar el correo debemos dirigirnos a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Documentación → Trabajador → Entrega de reglamento interno
+Menú SFTI → Documentación → Trabajador → Entrega de reglamento interno
 ```
 </div>
 

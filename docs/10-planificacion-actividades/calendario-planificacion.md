@@ -9,7 +9,7 @@ Para ingresar una debe dirigirse a:
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Planificación de actividades → Calendario planificación de actividades
+Menú SFTI → Planificación de actividades → Calendario planificación de actividades
 ```
 </div>
 
@@ -74,7 +74,7 @@ Luego de finalizar podrás visualizar el acta creada desde el calendario o tambi
 <div align="center">
 
 ```bash
-Menú SFTI Pro → Planificación de actividades → Listado de actas planificación de actividades
+Menú SFTI → Planificación de actividades → Listado de actas planificación de actividades
 ```
 </div>
 
