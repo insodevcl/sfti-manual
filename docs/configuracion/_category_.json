@@ -1,8 +1,8 @@
 {
-    "label": "Configuración",
-    "position": 2,
-    "link": {
-        "type": "generated-index",
-        "description": "En este módulo de SFTI puede configurar los parámetros mas importantes de la plataforma,como las áreas y subáreas, cargos, elementos de protección personal, notificaciones, etc."
-      }
+  "label": "Configuración",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "En este módulo de SFTI puede configurar los parámetros mas importantes de la plataforma,como las áreas y subáreas, cargos, elementos de protección personal, notificaciones, etc."
+  }
 }

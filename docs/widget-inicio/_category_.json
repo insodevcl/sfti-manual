@@ -1,8 +1,8 @@
 {
-    "label": "Widgets",
-    "position": 3,
-    "link": {
-      "type": "generated-index",
-      "description": "Conjunto de widget para mostrar resumen de datos"
-    }
+  "label": "Widgets",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Conjunto de widget para mostrar resumen de datos"
+  }
 }

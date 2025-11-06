@@ -1,8 +1,8 @@
 {
-    "label": "Firma electrónica",
-    "position": 3,
-    "link": {
-      "type": "generated-index",
-      "description": "Este modulo permite la firma electrónica de diferentes documentos."
-    }
+  "label": "Firma electrónica",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Este modulo permite la firma electrónica de diferentes documentos."
   }
+}
