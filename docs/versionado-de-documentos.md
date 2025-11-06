@@ -15,7 +15,7 @@ Esta información fue actualizada el dia 06/06/2024 para la versión 1.97.1 de l
 A continuación se presenta un listado de los documentos y sus respectivos códigos, versión, fecha de actualización, URL
 y descripción:
 
-| Descripción| Código | Versión | Fecha de actualización | URL | Número de versión de creación (SFTI) |
+| Descripción| Código | Versión | Fecha de actualización | URL | Versión de creación (SFTI) |
 |-|-|-|-|-|-|
 |APR - Matriz|APR|1,1|2024-07-01|/analisis/riesgo/matriz/pdf/|1.92.0|
 |AST - Registro|AST|1,1|2024-07-01|/ast/registro/pdf/|1.92.0|
