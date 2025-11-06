@@ -7,7 +7,7 @@ slug: /versionado-de-documentos
 # Versionado de documentos
 
 :::info Información
-Esta información fue actualizada el dia 06/06/2024 para la versión 1.97.1 de la plataforma SFTI.
+Esta información fue actualizada el día 08/09/2025 para la versión 1.101.0 de la plataforma SFTI.
 :::
 
 ## Listado de documentos generados por SFTI en formato PDF
