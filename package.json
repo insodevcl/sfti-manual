@@ -16,8 +16,9 @@
     "gh-pages": "^6.0.0"
   },
   "scripts": {
+    "add-domain": "echo \"manual.safeti.cl\" > build/CNAME",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "npm run add-domain && gh-pages -d build",
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "docusaurus build",
